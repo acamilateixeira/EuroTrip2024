@@ -1,28 +1,26 @@
 # Planejamento da Viagem - Europa, Junho de 2024
 
-Este é um breve guia do planejamento da minha viagem à Europa em junho de 2024.
+Este é um guia para o planejamento da minha viagem à Europa em junho de 2024.
 
-Abaixo está o itinerário detalhado, destacando as datas, locais e atividades planejadas.
+Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locais e atividades planejadas.
 
 ## Itinerário
 
-| Data   | Local              | Atividades                                               |
-| ------ | ------------------ | -------------------------------------------------------- |
-| 09/jun | Brasil (Partida)   | Partida para Roma, Itália                                |
-| 10/jun | Roma, Itália       | Chegada em Roma                                          |
-| 11/jun | Roma, Itália       | Explorar Roma: Coliseu, Vaticano, Fontana di Trevi       |
-| 12/jun | Roma, Itália       | Mais explorar Roma: Panteão, Fórum Romano                |
-| 13/jun | Grécia - Santorini | Viagem de Roma para Santorini                            |
-| 14/jun | Santorini, Grécia  | Relaxar e explorar Santorini                             |
-| 15/jun | Santorini, Grécia  | Praias, pôr do sol em Oia                                |
-| 16/jun | Zurique, Suíça     | Viagem de Santorini para Zurique                         |
-| 17/jun | Zurique, Suíça     | Explorar Zurique: Museu Lindt, centro da cidade          |
-| 18/jun | Lucerna, Suíça     | Viagem de Zurique para Lucerna                           |
-| 19/jun | Lucerna, Suíça     | Explorar Lucerna: Ponte da Capela, centro histórico      |
-| 20/jun | Zurique, Suíça     | Viagem de Lucerna para Zurique (Preparativos para volta) |
-| 21/jun | Brasil (Retorno)   | Partida de Zurique para o Brasil                         |
-
-Claro, vou fornecer mais opções de passeios, restaurantes vegetarianos, e hostels com quartos privados para cada país do seu itinerário, juntamente com uma média aproximada de valores. Lembre-se de que os preços podem variar, então essas são apenas estimativas para lhe dar uma ideia.
+| Data   | Dia da Semana | Local              | Atividades                                               |
+| ------ | ------------- | ------------------ | -------------------------------------------------------- |
+| 09/jun | Domingo       | Brasil (Partida)   | Partida para Roma, Itália                                |
+| 10/jun | Segunda-feira | Roma, Itália       | Chegada em Roma                                          |
+| 11/jun | Terça-feira   | Roma, Itália       | Explorar Roma: Coliseu, Vaticano, Fontana di Trevi       |
+| 12/jun | Quarta-feira  | Roma, Itália       | Mais explorar Roma: Panteão, Fórum Romano                |
+| 13/jun | Quinta-feira  | Grécia - Santorini | Viagem de Roma para Santorini                            |
+| 14/jun | Sexta-feira   | Santorini, Grécia  | Relaxar e explorar Santorini                             |
+| 15/jun | Sábado        | Santorini, Grécia  | Passeio de barco ao vulcão Nea Kameni, águas termais     |
+| 16/jun | Domingo       | Santorini, Grécia  | Explorar praias de Santorini: Red Beach, Kamari Beach    |
+| 17/jun | Segunda-feira | Zurique, Suíça     | Viagem de Santorini para Zurique                         |
+| 18/jun | Terça-feira   | Lucerna, Suíça     | Viagem de Zurique para Lucerna                           |
+| 19/jun | Quarta-feira  | Lucerna, Suíça     | Passeio de barco pelo Lago dos Quatro Cantões            |
+| 20/jun | Quinta-feira  | Zurique, Suíça     | Viagem de Lucerna para Zurique (Preparativos para volta) |
+| 21/jun | Sexta-feira   | Brasil (Retorno)   | Partida de Zurique para o Brasil                         |
 
 ## Itália:
 
@@ -129,5 +127,4 @@ Claro, vou fornecer mais opções de passeios, restaurantes vegetarianos, e host
 7. **Hotel Alpha**: Quartos privados em ambiente tranquilo. Média: 100 francos suíços por noite.
 8. **Zurich Marriott Hotel**: Opção de quarto privado de luxo. Média: 250 francos suíços por noite.
 
-Essas são opções adicionais para cada destino, com uma média aproximada de valores.
 Lembre-se de verificar as informações atualizadas e fazer reservas antecipadas para garantir uma experiência tranquila durante a sua viagem.
