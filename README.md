@@ -6,33 +6,37 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
 ## Itinerário
 
-| Data   | Dia da Semana | Local             | Atividades                                                    |
-| ------ | ------------- | ----------------- | ------------------------------------------------------------- |
-| 08/jun | Sábado        | Brasil (Partida)  | Partida para Roma, Itália.                                    |
-| 09/jun | Domingo       | Roma, Itália      | Chegada em Roma.                                              |
-| 10/jun | Segunda-feira | Roma, Itália      | - Coliseu                                                     |
-|        |               |                   | - Fórum Romano                                                |
-|        |               |                   | - Palatino                                                    |
-| 11/jun | Terça-feira   | Roma, Itália      | - Visitar o Vaticano:                                         |
-|        |               |                   | - Basílica de São Pedro                                       |
-|        |               |                   | - Museus Vaticanos                                            |
-|        |               |                   | - Capela Sistina                                              |
-| 12/jun | Quarta-feira  | Roma, Itália      | Dia livre em Roma.                                            |
-| 13/jun | Quinta-feira  | Santorini, Grécia | Viagem de Roma para Santorini.                                |
-| 14/jun | Sexta-feira   | Santorini, Grécia | - Relaxar e explorar Santorini.                               |
-| 15/jun | Sábado        | Santorini, Grécia | - Passeio de barco ao vulcão Nea Kameni                       |
-|        |               |                   | - Águas termais                                               |
-| 16/jun | Domingo       | Santorini, Grécia | - Explorar praias de Santorini:                               |
-|        |               |                   | - Red Beach                                                   |
-|        |               |                   | - Kamari Beach                                                |
-| 17/jun | Segunda-feira | Zurique, Suíça    | Viagem de Santorini para Zurique                              |
-| 18/jun | Terça-feira   | Lucerna, Suíça    | - Viagem de Zurique para Lucerna.                             |
-|        |               |                   | - Explorar Lucerna:                                           |
-|        |               |                   | - Ponte da Capela                                             |
-|        |               |                   | - Monte Pilatus (opcional)                                    |
-| 19/jun | Quarta-feira  | Zurique, Suíça    | - Passeio de barco pelo Lago dos Quatro Cantões               |
-| 20/jun | Quinta-feira  | Zurique, Suíça    | Viagem de Lucerna para Zurique (Preparativos para o retorno). |
-| 21/jun | Sexta-feira   | Brasil (Retorno)  | Partida de Zurique para o Brasil.                             |
+| Data   | Dia da Semana | Local             | Atividades                                                       |
+| ------ | ------------- | ----------------- | ---------------------------------------------------------------- |
+| 08/jun | Sábado        | Brasil (Partida)  | Partida para Roma, Itália.                                       |
+| 09/jun | Domingo       | Roma, Itália      | - Chegada em Roma.                                               |
+|        |               |                   | - Fontana di Trevi                                               |
+| 10/jun | Segunda-feira | Roma, Itália      | - Coliseu                                                        |
+|        |               |                   | - Fórum Romano                                                   |
+|        |               |                   | - Palatino                                                       |
+| 11/jun | Terça-feira   | Roma, Itália      | - Visitar o Vaticano:                                            |
+|        |               |                   | - Basílica de São Pedro                                          |
+|        |               |                   | - Museus Vaticanos                                               |
+|        |               |                   | - Capela Sistina                                                 |
+| 12/jun | Quarta-feira  | Roma, Itália      | Dia livre em Roma.                                               |
+| 13/jun | Quinta-feira  | Santorini, Grécia | - Viagem de Roma para Santorini.                                 |
+| 14/jun | Sexta-feira   | Santorini, Grécia | - Relaxar e explorar Santorini.                                  |
+| 15/jun | Sábado        | Santorini, Grécia | - Passeio de barco ao vulcão Nea Kameni                          |
+|        |               |                   | - Águas termais                                                  |
+| 16/jun | Domingo       | Santorini, Grécia | - Explorar praias de Santorini:                                  |
+|        |               |                   | - Red Beach                                                      |
+|        |               |                   | - Kamari Beach                                                   |
+| 17/jun | Segunda-feira | Zurique, Suíça    | - Viagem de Santorini para Zurique.                              |
+|        |               |                   | - Explorar Zurique:                                              |
+|        |               |                   | - Museu Lindt (Casa do Chocolate)                                |
+|        |               |                   | - Bahnhofstrasse (rua comercial).                                |
+| 18/jun | Terça-feira   | Lucerna, Suíça    | - Viagem de Zurique para Lucerna.                                |
+|        |               |                   | - Explorar Lucerna:                                              |
+|        |               |                   | - Ponte da Capela                                                |
+|        |               |                   | - Monte Pilatus (opcional)                                       |
+| 19/jun | Quarta-feira  | Zurique, Suíça    | - Passeio de barco pelo Lago dos Quatro Cantões                  |
+| 20/jun | Quinta-feira  | Zurique, Suíça    | - Viagem de Zurique para o Brasil (Preparativos para o retorno). |
+| 21/jun | Sexta-feira   | Brasil (Retorno)  | Chegada ao Brasil.                                               |
 
 ## Itália:
 
@@ -58,17 +62,6 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 7. **Joia Kitchen**: Pratos vegetarianos e veganos sazonais. Média: 18 euros por refeição.
 8. **Veggie**: Variedade de opções vegetarianas. Média: 15 euros por refeição.
 
-### Hostels com Quartos Privados:
-
-1. **Hostel Alessandro Downtown**: Quartos privados e localização central. Média: 50 euros por noite.
-2. **YellowSquare Rome**: Quartos privados e ambiente animado. Média: 60 euros por noite.
-3. **The RomeHello**: Quartos privados modernos. Média: 70 euros por noite.
-4. **Generator Rome**: Quartos privados com design moderno. Média: 65 euros por noite.
-5. **Hotel Duca d'Alba**: Opção de quarto privado em hotel. Média: 80 euros por noite.
-6. **Mosaic Hostel**: Quartos privados em ambiente acolhedor. Média: 55 euros por noite.
-7. **RomeHello Monti**: Quartos privados no bairro Monti. Média: 65 euros por noite.
-8. **New Generation Hostel Santa Maria Maggiore**: Quartos privados perto da Basílica de Santa Maria Maggiore. Média: 60 euros por noite.
-
 ## Grécia - Santorini:
 
 ### Passeios:
@@ -93,17 +86,6 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 7. **Falafel Land**: Deliciosos pratos vegetarianos. Média: 10 euros por refeição.
 8. **Cava Alta**: Opções vegetarianas e gregas. Média: 18 euros por refeição.
 
-### Hostels com Quartos Privados:
-
-1. **Caveland**: Quartos privados em antiga fazenda de cavernas. Média: 70 euros por noite.
-2. **Santorini Hostel**: Quartos privados com piscina. Média: 80 euros por noite.
-3. **Youth Hostel Anna**: Quartos privados com atmosfera amigável. Média: 60 euros por noite.
-4. **Oia Mare Villas**: Quartos privados com vista para o mar. Média: 120 euros por noite.
-5. **Anessis Apartments**: Quartos privados com cozinha e varanda. Média: 90 euros por noite.
-6. **Blue Sky Villa**: Quartos privados perto da praia. Média: 100 euros por noite.
-7. **Villa Ilias**: Quartos privados em ambiente tranquilo. Média: 70 euros por noite.
-8. **Zorzis Hotel**: Quartos privados com decoração tradicional. Média: 75 euros por noite.
-
 ## Suíça - Zurique e Lucerna:
 
 ### Passeios:
@@ -127,16 +109,3 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 6. **Vegelateria**: Sorvetes veganos e opções salgadas. Média: 12 francos suíços.
 7. **Roots and Friends**: Café e restaurante com opções saudáveis. Média: 18 francos suíços por refeição.
 8. **Marktküche**: Cozinha sazonal e vegetariana. Média: 30 francos suíços por refeição.
-
-### Hostels com Quartos Privados:
-
-1. **Oldtown Hostel Otter**: Quartos privados em localização central. Média: 90 francos suíços por noite.
-2. **Backpackers Lucerne**: Quartos privados em Lucerna. Média: 80 francos suíços por noite.
-3. **City Backpacker - Hotel Biber**: Quartos privados no centro de Zurique. Média: 100 francos suíços por noite.
-4. **Swiss Star Longstreet Apartments**: Apartamentos privados em Zurique. Média: 130 francos suíços por noite.
-5. **Youth Hostel Zurich**: Quartos privados em localização conveniente. Média: 110 francos suíços por noite.
-6. **Hotel Rothaus**: Quartos privados em hotel perto da estação. Média: 120 francos suíços por noite.
-7. **Hotel Alpha**: Quartos privados em ambiente tranquilo. Média: 100 francos suíços por noite.
-8. **Zurich Marriott Hotel**: Opção de quarto privado de luxo. Média: 250 francos suíços por noite.
-
-Lembre-se de verificar as informações atualizadas e fazer reservas antecipadas para garantir uma experiência tranquila durante a sua viagem.
