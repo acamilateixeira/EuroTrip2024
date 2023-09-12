@@ -241,7 +241,7 @@ Elas representam um lugar onde os primeiros cristãos praticaram sua fé em temp
 
 10 euros por refeição. 6. **Vegano e Basta**: Refeições veganas e vegetarianas. Média: 12 euros por refeição. 7. **Joia Kitchen**: Pratos vegetarianos e veganos sazonais. Média: 18 euros por refeição. 8. **Veggie**: Variedade de opções vegetarianas. Média: 15 euros por refeição.
 
-## GRÉCIA - SANTORINI<a name="grécia-santorini"></a>
+# GRÉCIA - SANTORINI<a name="grécia-santorini"></a>
 
 ### Passeios em Santorini<a name="passeios-em-santorini"></a>
 
@@ -430,7 +430,7 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
 7. **Falafel Land**: Deliciosos pratos vegetarianos. Média: 10 euros por refeição.
 8. **Cava Alta**: Opções vegetarianas e gregas. Média: 18 euros por refeição.
 
-## SUÍÇA - ZURIQUE E LUCERNA<a name="suíça-zurique-e-lucerna"></a>
+# SUÍÇA - ZURIQUE E LUCERNA<a name="suíça-zurique-e-lucerna"></a>
 
 ### Passeios em Zurique e Lucerna<a name="passeios-na-suíça"></a>
 
