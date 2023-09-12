@@ -40,7 +40,7 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
 ### Passeios:
 
-**1. **Galeria Borghese\*\*
+1. **Galeria Borghese**
 
 **Duração:** 2 horas
 **Categoria:** Cultural
@@ -58,7 +58,7 @@ A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do pa
 
 ---
 
-**2. **Passeio de Vespa por Roma\*\*
+2. **Passeio de Vespa por Roma**
 
 **Duração:** 3 horas
 **Categoria:** Aventura
@@ -76,7 +76,7 @@ As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um sím
 
 ---
 
-**3. **Piazza Navona e Pantheon\*\*
+3. **Piazza Navona e Pantheon**
 
 **Duração:** 2 horas
 **Categoria:** Cultural
@@ -94,7 +94,7 @@ Piazza Navona foi construída no século 14 no local do antigo estádio de Domic
 
 ---
 
-**4. **Passeio de barco pelo rio Tibre\*\*
+4. **Passeio de barco pelo rio Tibre**
 
 **Duração:** 1 hora
 **Categoria:** Passeio ao Ar Livre
@@ -112,7 +112,7 @@ O rio Tibre é um rio que atravessa a Itália central. É o rio mais importante 
 
 ---
 
-**5. **Piazza di Spagna (Escadaria Espanhola)\*\*
+5. **Piazza di Spagna (Escadaria Espanhola)**
 
 **Duração:** Gratuito
 **Categoria:** Cultural
@@ -129,7 +129,7 @@ Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanct
 
 ---
 
-**6. **Exploração do Trastevere\*\*
+6. **Exploração do Trastevere**
 
 **Duração:** Varia de acordo com a vontade do visitante
 **Categoria:** Cultural
@@ -147,7 +147,7 @@ Trastevere é um bairro histórico de Roma que remonta à época romana. O bairr
 
 ---
 
-**7. **Catacumbas de São Calisto\*\*
+7. **Catacumbas de São Calisto**
 
 **Duração:** 1 hora
 **Categoria:** Cultural
@@ -178,7 +178,7 @@ As catacumbas de São Calisto foram construídas no século 2 d.C. Elas foram us
 
 ### Passeios:
 
-**1. **Passeio de Barco ao Vulcão Nea Kameni\*\*
+1. **Passeio de Barco ao Vulcão Nea Kameni**
 
 **Duração:** 4 horas
 **Categoria:** Aventura
@@ -196,7 +196,7 @@ O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado n
 
 ---
 
-**2. **Cruzeiro ao Pôr do Sol\*\*
+2. **Cruzeiro ao Pôr do Sol**
 
 **Duração:** 2 horas
 **Categoria:** Romântico
@@ -214,7 +214,7 @@ O pôr do sol de Santorini é um fenômeno natural único, que é resultado da c
 
 ---
 
-**3. **Trilhas de Santorini\*\*
+3. **Trilhas de Santorini**
 
 **Duração:** Varia de acordo com a trilha escolhida
 **Categoria:** Aventura
@@ -232,7 +232,7 @@ As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha
 
 ---
 
-**4. **Museu da Pré-História de Thera\*\*
+4. **Museu da Pré-História de Thera**
 
 **Duração:** 2 horas
 **Categoria:** Cultural
@@ -250,7 +250,7 @@ O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibi
 
 ---
 
-**5. **Vila de Pyrgos\*\*
+5. **Vila de Pyrgos**
 
 **Duração:** 2 horas
 **Categoria:** Cultural
@@ -268,7 +268,7 @@ Pyrgos foi fundada no século 16 e foi um importante centro comercial e religios
 
 ---
 
-**6. **Praia de Kamari\*\*
+6. **Praia de Kamari**
 
 **Duração:** Varia de acordo com a vontade do visitante
 **Categoria:** Praia
@@ -286,7 +286,7 @@ A praia de Kamari foi formada pela atividade vulcânica da ilha.
 
 ---
 
-**7. **Praia de Red Beach\*\*
+7. **Praia de Red Beach**
 
 **Duração:** Varia de acordo com a vontade do visitante
 **Categoria:** Praia
@@ -299,7 +299,7 @@ _Fatos interessantes:_
 
 ---
 
-**8. **Praia de Perissa\*\*
+8. **Praia de Perissa**
 
 **Duração:** Varia de acordo com a vontade do visitante
 **Categoria:** Praia
@@ -317,7 +317,7 @@ A praia de Perissa foi formada pela atividade vulcânica da ilha.
 
 ---
 
-**9. **Museu do Vinho de Santorini\*\*
+9. **Museu do Vinho de Santorini**
 
 **Duração:** 1 hora
 **Categoria:** Cultural
@@ -335,7 +335,7 @@ O Museu do Vinho de Santorini foi inaugurado em 2016 para preservar e exibir a h
 
 ---
 
-**10. **Passeio de Quadriciclo pela Ilha\*\*
+10. **Passeio de Quadriciclo pela Ilha**
 
 **Duração:** 3 horas
 **Categoria:** Aventura
@@ -366,7 +366,7 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
 
 ### Passeios:
 
-**1. **Limmat River Cruise\*\*
+1. **Limmat River Cruise**
 
 **Duração:** 1 hora
 **Categoria:** Passeio ao Ar Livre
@@ -384,7 +384,7 @@ O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em docu
 
 ---
 
-**2. **Passeio de Trem até o Monte Uetliberg\*\*
+2. **Passeio de Trem até o Monte Uetliberg**
 
 **Duração:** 30 minutos de trem + 1 hora de caminhada
 **Categoria:** Aventura
@@ -402,7 +402,7 @@ O Monte Uetliberg tem sido um importante local para os habitantes de Zurique des
 
 ---
 
-**3. **Passeio pela Cidade Velha de Zurique\*\*
+3. **Passeio pela Cidade Velha de Zurique**
 
 **Duração:** 3 horas
 **Categoria:** Cultural
@@ -420,7 +420,7 @@ A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A �
 
 ---
 
-**4. **Museu FIFA World Football\*\*
+4. **Museu FIFA World Football**
 
 **Duração:** 3 horas
 **Categoria:** Esportes
@@ -438,7 +438,7 @@ O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário d
 
 ---
 
-**5. **Rosenberg Indoor Golf\*\*
+5. **Rosenberg Indoor Golf**
 
 **Duração:** 1 hora
 **Categoria:** Esportes
