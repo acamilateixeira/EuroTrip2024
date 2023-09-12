@@ -338,7 +338,7 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
 
 ## Suíça - Zurique e Lucerna<a name="suíça-zurique-e-lucerna"></a>
 
-### Passeios em Zurique e Lucerna<a name="passeios-em-zurique-e-lucerna"></a>
+### Passeios em Zurique e Lucerna<a name="passeios-na-suíça"></a>
 
 1. **Limmat River Cruise (Cruzeiro pelo Rio Limmat)**
 
@@ -417,7 +417,7 @@ que desejam melhorar seu jogo.
 _História:_
 O Rosenberg Indoor Golf foi inaugurado em 2015 e tem se tornado um local popular para golfistas em Zurique.
 
-### Restaurantes Vegetarianos em Zurique e Lucerna<a name="restaurantes-vegetarianos-em-zurique-e-lucerna"></a>
+### Restaurantes Vegetarianos em Zurique e Lucerna<a name="restaurantes-vegetarianos-na-suíça"></a>
 
 #### Zurique:
 
