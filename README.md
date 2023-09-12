@@ -70,8 +70,8 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
    - A galeria abriga uma coleção de obras de arte de artistas como Rafael, Caravaggio e Bernini.
    - A galeria foi fundada no século 17 pelo cardeal Scipione Borghese.
 
-   _História:_
-   A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do papa Paulo V. O cardeal era um grande colecionador de arte e reuniu uma coleção impressionante de pinturas, esculturas e outros objetos artísticos. A galeria foi aberta ao público em 1903.
+> História:
+> A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do papa Paulo V. O cardeal era um grande colecionador de arte e reuniu uma coleção impressionante de pinturas, esculturas e outros objetos artísticos. A galeria foi aberta ao público em 1903.
 
 2. **Passeio de Vespa por Roma**
 
@@ -85,8 +85,8 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
    - Um passeio de Vespa é uma maneira divertida e emocionante de explorar Roma.
    - O passeio pode ser personalizado para atender às preferências dos visitantes.
 
-   _História:_
-   As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um símbolo da cultura italiana e são populares em todo o mundo.
+> História:
+> As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um símbolo da cultura italiana e são populares em todo o mundo.
 
 3. **Piazza Navona e Pantheon**
 
@@ -100,23 +100,19 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
    - A praça é conhecida por suas fontes barrocas, incluindo a Fonte dos Quatro Rios.
    - O Pantheon é um templo romano bem preservado, que foi construído no século 2 d.C.
 
-   _História:_
-   Piazza Navona foi construída no século 14 no local do antigo estádio de Domiciano. O Pantheon foi construído no século 2 d.C. e foi dedicado a todos os deuses romanos.
+> História:
 
-   A Piazza Navona e o Pantheon são dois dos monumentos mais famosos de Roma, na Itália. A Piazza Navona é uma praça oval que foi construída no século XVI, sobre os restos de um antigo estádio romano. O Pantheon é um templo romano do século II d.C., que é considerado uma das maravilhas arquitetônicas do mundo.
+Piazza Navona foi construída no século 14 no local do antigo estádio de Domiciano. O Pantheon foi construído no século 2 d.C. e foi dedicado a todos os deuses romanos.
 
+A Piazza Navona e o Pantheon são dois dos monumentos mais famosos de Roma, na Itália. A Piazza Navona é uma praça oval que foi construída no século XVI, sobre os restos de um antigo estádio romano. O Pantheon é um templo romano do século II d.C., que é considerado uma das maravilhas arquitetônicas do mundo.
 A Piazza Navona foi originalmente um estádio romano, construído no século I a.C. pelo imperador Domiciano. O estádio foi usado para competições esportivas e festivais. No século XVI, o papa Inocêncio X encomendou a construção de uma nova praça no local do estádio. Os projetos foram feitos pelo arquiteto Giacomo Della Porta.
-
 A praça foi construída em forma oval, para refletir a forma do antigo estádio. No centro da praça, está a Fontana dei Quattro Fiumi, uma fonte monumental que foi construída por Bernini. A fonte representa os quatro principais rios do mundo: o Nilo, o Ganges, o Danúbio e o Rio de la Plata.
-
 O Pantheon é um templo romano que foi construído no século II d.C. pelo imperador Adriano. O templo é dedicado a todos os deuses do panteão romano. O Pantheon é considerado uma das maravilhas arquitetônicas do mundo, devido à sua cúpula de concreto maciço.
-
 A cúpula do Pantheon tem 43 metros de diâmetro e 43 metros de altura. A cúpula é feita de concreto maciço, sem reforços. A cúpula é tão resistente que, durante um bombardeio aéreo na Segunda Guerra Mundial, uma bomba atingiu o templo e ricocheteou na cúpula, sem causar nenhum dano.
-
 A Piazza Navona e o Pantheon são dois dos monumentos mais visitados de Roma. Eles são um exemplo da riqueza histórica e cultural da cidade.
 
-<img scr='https://u9e6s4x4.stackpathcdn.com/wp-content/uploads/2023/05/p.jpg'>
-<img scr='https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg'>
+<img alt="exemplo" title="#exemplo" scr='https://u9e6s4x4.stackpathcdn.com/wp-content/uploads/2023/05/p.jpg'/>
+<img alt="exemplo" title="#exemplo" scr='https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg'/>
 
 4. **Passeio de barco pelo rio Tibre**
 
@@ -130,20 +126,15 @@ A Piazza Navona e o Pantheon são dois dos monumentos mais visitados de Roma. El
    - O passeio de barco é uma maneira relaxante de ver a cidade de uma perspectiva diferente.
    - O passeio passa por alguns dos principais pontos turísticos de Roma, como o Castel Sant'Angelo e a Ponte Sant'Angelo.
 
-   _História:_
+> História:
 
 O rio Tibre é um rio que atravessa a Itália central, com 405 km de extensão. Ele nasce no Monte Fumaiolo, na região dos Apeninos, e deságua no Mar Tirreno, perto de Ostia.
-
 O Tibre é um rio importante para a história da Itália, pois foi ao longo dele que surgiu a cidade de Roma. A cidade foi fundada no ano 753 a.C., às margens do rio.
-
 O Tibre também foi importante para o desenvolvimento da civilização romana. Ele era usado como via de comunicação e transporte, e também era uma fonte de água potável e para irrigação.
-
 O Tibre é um rio que foi palco de diversos acontecimentos históricos. Em 1548, o rio sofreu uma grande enchente, que causou grande destruição em Roma.
-
 No século XX, o Tibre foi alvo de diversos projetos de revitalização. O rio foi despoluído e foram construídos diversos parques e áreas de lazer nas suas margens.
 
 Hoje, o Tibre é um rio importante para o turismo e a recreação na Itália. Ele é um dos principais pontos turísticos de Roma, e é um local popular para passeios de barco, pesca e outras atividades.
-
 Aqui estão alguns dos principais acontecimentos históricos relacionados ao rio Tibre:
 
 - 753 a.C.: Fundação da cidade de Roma às margens do rio.
@@ -168,12 +159,12 @@ O rio Tibre é um rio importante para a história e a cultura da Itália. Ele é
    - A escadaria é frequentemente usada como cenário para filmes e programas de TV como o clássico A Princesa e o Plebeu.
    - A praça é o lar da fonte Barcaccia, que foi esculpida pelo artista Pietro Bernini.
 
-   _História:_
+> História:
 
-   Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanctis.
+Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanctis.
 
-   A Piazza di Spagna, ou Praça de Espanha, é uma das praças mais famosas de Roma, na Itália.
-   Ela é conhecida por sua monumental escadaria, com 135 degraus, que leva à igreja Trinità dei Monti, no alto do morro.
+A Piazza di Spagna, ou Praça de Espanha, é uma das praças mais famosas de Roma, na Itália.
+Ela é conhecida por sua monumental escadaria, com 135 degraus, que leva à igreja Trinità dei Monti, no alto do morro.
 
 A história da Piazza di Spagna começa no século XVII, quando a França construiu uma embaixada na praça.
 Os franceses queriam conectar sua embaixada à igreja Trinità dei Monti, que era um símbolo da Igreja Católica.
@@ -199,8 +190,9 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - O bairro é conhecido por suas ruas estreitas, becos e atmosfera boêmia.
    - Trastevere é um ótimo lugar para experimentar a culinária romana.
 
-   _História:_
-   Trastevere é um bairro histórico de Roma que remonta à época romana. O bairro foi originalmente habitado por pescadores e trabalhadores e ainda mantém seu charme antigo.
+> História:
+
+Trastevere é um bairro histórico de Roma que remonta à época romana. O bairro foi originalmente habitado por pescadores e trabalhadores e ainda mantém seu charme antigo.
 
 7. **Catacumbas de São Calisto**
 
@@ -214,15 +206,15 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - Elas são um dos maiores complexos de catacumbas do mundo, com mais de 20 quilômetros de túneis.
    - As catacumbas abrigam uma variedade de artefatos religiosos, incluindo inscrições, pinturas e esculturas.
 
-   _História:_
-   As catacumbas de São Calisto são um labirinto de túneis subterrâneos que abrigam milhares de sepulturas de cristãos primitivos.
-   Elas foram construídas no século 2 d.C. e se tornaram um importante local de sepultamento para os cristãos que eram perseguidos pelo Império Romano.
+> História:
+> As catacumbas de São Calisto são um labirinto de túneis subterrâneos que abrigam milhares de sepulturas de cristãos primitivos.
+> Elas foram construídas no século 2 d.C. e se tornaram um importante local de sepultamento para os cristãos que eram perseguidos pelo Império Romano.
 
-   Além de servir como um cemitério, as catacumbas também eram usadas para rituais religiosos e missas.
-   Elas contêm uma série de inscrições, pinturas e esculturas que fornecem insights sobre a vida e as crenças dos cristãos primitivos.
+Além de servir como um cemitério, as catacumbas também eram usadas para rituais religiosos e missas.
+Elas contêm uma série de inscrições, pinturas e esculturas que fornecem insights sobre a vida e as crenças dos cristãos primitivos.
 
-   Hoje, as catacumbas de São Calisto são um importante local de peregrinação e um testemunho da história cristã em Roma.
-   Elas representam um lugar onde os primeiros cristãos praticaram sua fé em tempos de adversidade.
+Hoje, as catacumbas de São Calisto são um importante local de peregrinação e um testemunho da história cristã em Roma.
+Elas representam um lugar onde os primeiros cristãos praticaram sua fé em tempos de adversidade.
 
 ### Restaurantes Vegetarianos na Itália<a name="restaurantes-vegetarianos-na-italia"></a>
 
@@ -250,8 +242,8 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - O passeio de barco ao vulcão Nea Kameni é uma oportunidade única de ver de perto um vulcão ativo.
    - O passeio inclui uma caminhada pela cratera do vulcão, onde é possível ver as fumarolas e piscinas de lava.
 
-   _História:_
-   O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado no século 17 a.C. O vulcão é resultado de uma série de erupções vulcânicas que ocorreram na ilha de Santorini.
+> História:
+> O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado no século 17 a.C. O vulcão é resultado de uma série de erupções vulcânicas que ocorreram na ilha de Santorini.
 
 2. **Cruzeiro ao Pôr do Sol**
 
@@ -265,8 +257,8 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - O cruzeiro ao pôr do sol é uma maneira perfeita de apreciar a beleza da ilha e desfrutar de uma experiência romântica.
    - O cruzeiro geralmente inclui uma degustação de vinhos locais.
 
-   _História:_
-   O pôr do sol de Santorini é um fenômeno natural único, que é resultado da combinação de vários fatores, incluindo a localização da ilha, a composição geológica do solo e o clima.
+> História:
+> O pôr do sol de Santorini é um fenômeno natural único, que é resultado da combinação de vários fatores, incluindo a localização da ilha, a composição geológica do solo e o clima.
 
 3. **Trilhas de Santorini**
 
@@ -280,8 +272,8 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - As trilhas variam de nível de dificuldade, desde trilhas fáceis para caminhadas familiares até trilhas desafiadoras para os mais aventureiros.
    - As trilhas são uma ótima maneira de explorar a ilha e de se conectar com a natureza.
 
-   _História:_
-   As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha as usavam para se locomover entre as diferentes partes da ilha.
+> História:
+> As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha as usavam para se locomover entre as diferentes partes da ilha.
 
 4. **Museu da Pré-História de Thera**
 
@@ -295,8 +287,8 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - A coleção inclui objetos que datam de 3.600 a.C., incluindo afrescos, cerâmica e jóias.
    - O museu oferece uma visão fascinante da história e cultura da ilha.
 
-   _História:_
-   O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibir os artefatos encontrados em escavações arqueológicas na ilha de Santorini.
+> História:
+> O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibir os artefatos encontrados em escavações arqueológicas na ilha de Santorini.
 
 5. **Vila de Pyrgos**
 
@@ -310,8 +302,8 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - A vila é conhecida por suas ruas estreitas, casas brancas e vistas panorâmicas da ilha.
    - Pyrgos é um ótimo lugar para aprender sobre a cultura e a história de Santorini.
 
-   _História:_
-   Pyrgos foi fundada no século 16 e foi um importante centro comercial e religioso durante a Idade Média.
+> História:
+> Pyrgos foi fundada no século 16 e foi um importante centro comercial e religioso durante a Idade Média.
 
 6. **Praia de Kamari**
 
@@ -325,8 +317,8 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - A praia é conhecida por sua areia negra vulcânica, mar cristalino e águas calmas.
    - Kamari é um ótimo lugar para relaxar e aproveitar o sol.
 
-   _História:_
-   A praia de Kamari foi formada pela atividade vulcânica da ilha.
+> História:
+> A praia de Kamari foi formada pela atividade vulcânica da ilha.
 
 7. **Praia de Red Beach**
 
@@ -351,8 +343,8 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - A praia é conhecida por sua areia negra vulcânica e mar cristalino.
    - Perissa é um ótimo lugar para relaxar e aproveitar o sol.
 
-   _História:_
-   A praia de Perissa foi formada pela atividade vulcânica da ilha.
+> História:
+> A praia de Perissa foi formada pela atividade vulcânica da ilha.
 
 9. **Museu do Vinho de Santorini**
 
@@ -414,8 +406,8 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
    - O rio Limmat é também um dos rios mais limpos da Europa, e é usado para o abastecimento de água potável de Zurique.
    - Durante o passeio, você poderá ver algumas das principais atrações de Zurique, como a Bahnhofstrasse, a Lindenhof e a Grossmünster.
 
-   _História:_
-   O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em documentos históricos do século 12. O rio foi usado por séculos como um importante meio de transporte e comunicação, e também foi um importante local de comércio e indústria.
+> História:
+> O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em documentos históricos do século 12. O rio foi usado por séculos como um importante meio de transporte e comunicação, e também foi um importante local de comércio e indústria.
 
 2. **Passeio de Trem até o Monte Uetliberg**
 
@@ -429,8 +421,8 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
    - O Monte Uetliberg oferece vistas deslumbrantes da cidade de Zurique e dos Alpes suíços.
    - O passeio de trem até o Monte Uetliberg é uma experiência única, passando por uma paisagem montanhosa de tirar o fôlego.
 
-   _História:_
-   O Monte Uetliberg tem sido um importante local para os habitantes de Zurique desde a Idade Média. No século 19, o Monte Uetliberg tornou-se um destino popular para passeios e excursões.
+> História:
+> O Monte Uetliberg tem sido um importante local para os habitantes de Zurique desde a Idade Média. No século 19, o Monte Uetliberg tornou-se um destino popular para passeios e excursões.
 
 3. **Passeio pela Cidade Velha de Zurique**
 
@@ -444,8 +436,8 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
    - A Cidade Velha é repleta de edifícios históricos, incluindo igrejas, torres e casas de guildas.
    - A Cidade Velha é também um centro comercial e cultural, com lojas, restaurantes e galerias de arte.
 
-   _História:_
-   A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A área é repleta de história, com edifícios que datam do século 13. A Cidade Velha é também um importante centro comercial e cultural, com lojas, restaurantes e galerias de arte.
+> História:
+> A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A área é repleta de história, com edifícios que datam do século 13. A Cidade Velha é também um importante centro comercial e cultural, com lojas, restaurantes e galerias de arte.
 
 4. **Museu FIFA World Football**
 
@@ -459,8 +451,8 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
    - O museu apresenta uma coleção de mais de 1.000 objetos relacionados ao futebol, incluindo troféus, camisas e bolas.
    - O museu também apresenta exposições interativas que permitem aos visitantes aprender sobre a história e a cultura do futebol.
 
-   _História:_
-   O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário da FIFA. O museu está localizado no centro de Zurique, próximo à estação central.
+> História:
+> O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário da FIFA. O museu está localizado no centro de Zurique, próximo à estação central.
 
 5. **Rosenberg Indoor Golf**
 
