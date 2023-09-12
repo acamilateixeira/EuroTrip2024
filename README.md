@@ -64,13 +64,14 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
    - **Categoria:** Cultural
    - **Valor:** 40 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - A Galeria Borghese é uma das galerias de arte mais importantes do mundo.
 - A galeria abriga uma coleção de obras de arte de artistas como Rafael, Caravaggio e Bernini.
 - A galeria foi fundada no século 17 pelo cardeal Scipione Borghese.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do papa Paulo V. O cardeal era um grande colecionador de arte e reuniu uma coleção impressionante de pinturas, esculturas e outros objetos artísticos. A galeria foi aberta ao público em 1903.
 
 2. **Passeio de Vespa por Roma**
@@ -79,13 +80,14 @@ A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do pa
    - **Categoria:** Aventura
    - **Valor:** 140 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - As Vespas são um símbolo da cultura italiana.
 - Um passeio de Vespa é uma maneira divertida e emocionante de explorar Roma.
 - O passeio pode ser personalizado para atender às preferências dos visitantes.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um símbolo da cultura italiana e são populares em todo o mundo.
 
 3. **Piazza Navona e Pantheon**
@@ -94,13 +96,14 @@ As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um sím
    - **Categoria:** Cultural
    - **Valor:** Gratuito
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - Piazza Navona é uma das praças mais famosas de Roma.
 - A praça é conhecida por suas fontes barrocas, incluindo a Fonte dos Quatro Rios.
 - O Pantheon é um templo romano bem preservado, que foi construído no século 2 d.C.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 Piazza Navona foi construída no século 14 no local do antigo estádio de Domiciano. O Pantheon foi construído no século 2 d.C. e foi dedicado a todos os deuses romanos.
 
 A Piazza Navona e o Pantheon são dois dos monumentos mais famosos de Roma, na Itália. A Piazza Navona é uma praça oval que foi construída no século XVI, sobre os restos de um antigo estádio romano. O Pantheon é um templo romano do século II d.C., que é considerado uma das maravilhas arquitetônicas do mundo.
@@ -119,13 +122,14 @@ A Piazza Navona e o Pantheon são dois dos monumentos mais visitados de Roma. El
    - **Categoria:** Passeio ao Ar Livre
    - **Valor:** 40 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O rio Tibre é o rio mais importante de Roma.
 - O passeio de barco é uma maneira relaxante de ver a cidade de uma perspectiva diferente.
 - O passeio passa por alguns dos principais pontos turísticos de Roma, como o Castel Sant'Angelo e a Ponte Sant'Angelo.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O rio Tibre é um rio que atravessa a Itália central, com 405 km de extensão. Ele nasce no Monte Fumaiolo, na região dos Apeninos, e deságua no Mar Tirreno, perto de Ostia.
 O Tibre é um rio importante para a história da Itália, pois foi ao longo dele que surgiu a cidade de Roma. A cidade foi fundada no ano 753 a.C., às margens do rio.
 O Tibre também foi importante para o desenvolvimento da civilização romana. Ele era usado como via de comunicação e transporte, e também era uma fonte de água potável e para irrigação.
@@ -151,13 +155,14 @@ O rio Tibre é um rio importante para a história e a cultura da Itália. Ele é
    - **Duração:** Gratuito
    - **Categoria:** Cultural
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - A escadaria foi inspirada na escadaria do Louvre, em Paris.
 - A escadaria é frequentemente usada como cenário para filmes e programas de TV como o clássico A Princesa e o Plebeu.
 - A praça é o lar da fonte Barcaccia, que foi esculpida pelo artista Pietro Bernini.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanctis.
 
 A Piazza di Spagna, ou Praça de Espanha, é uma das praças mais famosas de Roma, na Itália.
@@ -181,13 +186,14 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
    - **Categoria:** Cultural
    - **Valor:** Gratuito
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - Trastevere é um bairro histórico de Roma.
 - O bairro é conhecido por suas ruas estreitas, becos e atmosfera boêmia.
 - Trastevere é um ótimo lugar para experimentar a culinária romana.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 Trastevere é um bairro histórico de Roma que remonta à época romana. O bairro foi originalmente habitado por pescadores e trabalhadores e ainda mantém seu charme antigo.
 
 7. **Catacumbas de São Calisto**
@@ -196,13 +202,14 @@ Trastevere é um bairro histórico de Roma que remonta à época romana. O bairr
    - **Categoria:** Cultural
    - **Valor:** 16 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - As catacumbas abrigam os restos mortais de vários papas e bispos.
 - Elas são um dos maiores complexos de catacumbas do mundo, com mais de 20 quilômetros de túneis.
 - As catacumbas abrigam uma variedade de artefatos religiosos, incluindo inscrições, pinturas e esculturas.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 As catacumbas de São Calisto são um labirinto de túneis subterrâneos que abrigam milhares de sepulturas de cristãos primitivos.
 Elas foram construídas no século 2 d.C. e se tornaram um importante local de sepultamento para os cristãos que eram perseguidos pelo Império Romano.
 
@@ -232,13 +239,14 @@ Elas representam um lugar onde os primeiros cristãos praticaram sua fé em temp
    - **Categoria:** Aventura
    - **Valor:** 80 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O vulcão Nea Kameni é um vulcão ativo, que entrou em erupção pela última vez em 1950.
 - O passeio de barco ao vulcão Nea Kameni é uma oportunidade única de ver de perto um vulcão ativo.
 - O passeio inclui uma caminhada pela cratera do vulcão, onde é possível ver as fumarolas e piscinas de lava.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado no século 17 a.C. O vulcão é resultado de uma série de erupções vulcânicas que ocorreram na ilha de Santorini.
 
 2. **Cruzeiro ao Pôr do Sol**
@@ -247,13 +255,14 @@ O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado n
    - **Categoria:** Romântico
    - **Valor:** 100 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - Santorini é um dos melhores lugares do mundo para assistir ao pôr do sol.
 - O cruzeiro ao pôr do sol é uma maneira perfeita de apreciar a beleza da ilha e desfrutar de uma experiência romântica.
 - O cruzeiro geralmente inclui uma degustação de vinhos locais.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O pôr do sol de Santorini é um fenômeno natural único, que é resultado da combinação de vários fatores, incluindo a localização da ilha, a composição geológica do solo e o clima.
 
 3. **Trilhas de Santorini**
@@ -262,13 +271,14 @@ O pôr do sol de Santorini é um fenômeno natural único, que é resultado da c
    - **Categoria:** Aventura
    - **Valor:** Gratuito
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - Santorini tem uma rede de trilhas bem desenvolvida, que oferecem vistas deslumbrantes da ilha.
 - As trilhas variam de nível de dificuldade, desde trilhas fáceis para caminhadas familiares até trilhas desafiadoras para os mais aventureiros.
 - As trilhas são uma ótima maneira de explorar a ilha e de se conectar com a natureza.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha as usavam para se locomover entre as diferentes partes da ilha.
 
 4. **Museu da Pré-História de Thera**
@@ -277,13 +287,14 @@ As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha
    - **Categoria:** Cultural
    - **Valor:** 12 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O Museu da Pré-História de Thera abriga uma coleção de artefatos e descobertas arqueológicas da ilha de Santorini.
 - A coleção inclui objetos que datam de 3.600 a.C., incluindo afrescos, cerâmica e jóias.
 - O museu oferece uma visão fascinante da história e cultura da ilha.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibir os artefatos encontrados em escavações arqueológicas na ilha de Santorini.
 
 5. **Vila de Pyrgos**
@@ -292,13 +303,14 @@ O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibi
    - **Categoria:** Cultural
    - **Valor:** Gratuito
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - Pyrgos é uma vila tradicional de Santorini, situada no topo de uma colina.
 - A vila é conhecida por suas ruas estreitas, casas brancas e vistas panorâmicas da ilha.
 - Pyrgos é um ótimo lugar para aprender sobre a cultura e a história de Santorini.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 Pyrgos foi fundada no século 16 e foi um importante centro comercial e religioso durante a Idade Média.
 
 6. **Praia de Kamari**
@@ -307,13 +319,14 @@ Pyrgos foi fundada no século 16 e foi um importante centro comercial e religios
    - **Categoria:** Praia
    - **Valor:** Gratuito
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - Kamari é uma das praias mais populares de Santorini.
 - A praia é conhecida por sua areia negra vulcânica, mar cristalino e águas calmas.
 - Kamari é um ótimo lugar para relaxar e aproveitar o sol.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 A praia de Kamari foi formada pela atividade vulcânica da ilha.
 
 7. **Praia de Red Beach**
@@ -322,7 +335,7 @@ A praia de Kamari foi formada pela atividade vulcânica da ilha.
    - **Categoria:** Praia
    - **Valor:** Gratuito
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - Red Beach é uma das praias mais famosas de Santorini.
 - A praia é conhecida por suas formações rochosas.
@@ -333,13 +346,14 @@ A praia de Kamari foi formada pela atividade vulcânica da ilha.
    - **Categoria:** Praia
    - **Valor:** Gratuito
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - Perissa é uma das praias mais longas de Santorini.
 - A praia é conhecida por sua areia negra vulcânica e mar cristalino.
 - Perissa é um ótimo lugar para relaxar e aproveitar o sol.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 A praia de Perissa foi formada pela atividade vulcânica da ilha.
 
 9. **Museu do Vinho de Santorini**
@@ -348,14 +362,15 @@ A praia de Perissa foi formada pela atividade vulcânica da ilha.
    - **Categoria:** Cultural
    - **Valor:** 20 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O Museu do Vinho de Santorini é o único museu do vinho na Grécia.
 
 - O museu abriga uma coleção de objetos relacionados ao vinho, incluindo jarros, barris e prensas de vinho.
 - O museu também oferece degustações de vinhos locais.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O Museu do Vinho de Santorini foi inaugurado em 2016 para preservar e exibir a história da viticultura na ilha de Santorini.
 
 10. **Passeio de Quadriciclo pela Ilha**
@@ -364,13 +379,14 @@ O Museu do Vinho de Santorini foi inaugurado em 2016 para preservar e exibir a h
     - **Categoria:** Aventura
     - **Valor:** 60 euros
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O passeio de quadriciclo pela ilha é uma maneira divertida e emocionante de explorar Santorini.
 - O passeio passa por vilas, praias e pontos turísticos pitorescos.
 - O passeio é uma ótima opção para os aventureiros.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente se tornaram uma forma popular de transporte na ilha.
 
 ### Restaurantes Vegetarianos em Santorini<a name="restaurantes-vegetarianos-em-santorini"></a>
@@ -394,13 +410,14 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
    - **Categoria:** Passeio ao Ar Livre
    - **Valor:** 40 francos suíços
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O rio Limmat é um dos rios mais importantes da Suíça, cortando 13 dos 26 cantões do país.
 - O rio Limmat é também um dos rios mais limpos da Europa, e é usado para o abastecimento de água potável de Zurique.
 - Durante o passeio, você poderá ver algumas das principais atrações de Zurique, como a Bahnhofstrasse, a Lindenhof e a Grossmünster.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em documentos históricos do século 12. O rio foi usado por séculos como um importante meio de transporte e comunicação, e também foi um importante local de comércio e indústria.
 
 2. **Passeio de Trem até o Monte Uetliberg**
@@ -409,13 +426,14 @@ O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em docu
    - **Categoria:** Aventura
    - **Valor:** 25 francos suíços
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O Monte Uetliberg é o ponto mais alto de Zurique, com 870 metros de altitude.
 - O Monte Uetliberg oferece vistas deslumbrantes da cidade de Zurique e dos Alpes suíços.
 - O passeio de trem até o Monte Uetliberg é uma experiência única, passando por uma paisagem montanhosa de tirar o fôlego.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O Monte Uetliberg tem sido um importante local para os habitantes de Zurique desde a Idade Média. No século 19, o Monte Uetliberg tornou-se um destino popular para passeios e excursões.
 
 3. **Passeio pela Cidade Velha de Zurique**
@@ -424,13 +442,14 @@ O Monte Uetliberg tem sido um importante local para os habitantes de Zurique des
    - **Categoria:** Cultural
    - **Valor:** Gratuito
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - A Cidade Velha de Zurique é um Patrimônio Mundial da UNESCO.
 - A Cidade Velha é repleta de edifícios históricos, incluindo igrejas, torres e casas de guildas.
 - A Cidade Velha é também um centro comercial e cultural, com lojas, restaurantes e galerias de arte.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A área é repleta de história, com edifícios que datam do século 13. A Cidade Velha é também um importante centro comercial e cultural, com lojas, restaurantes e galerias de arte.
 
 4. **Museu FIFA World Football**
@@ -439,13 +458,14 @@ A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A �
    - **Categoria:** Esportes
    - **Valor:** 50 francos suíços
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O Museu FIFA World Football é o museu oficial da FIFA.
 - O museu apresenta uma coleção de mais de 1.000 objetos relacionados ao futebol, incluindo troféus, camisas e bolas.
 - O museu também apresenta exposições interativas que permitem aos visitantes aprender sobre a história e a cultura do futebol.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário da FIFA. O museu está localizado no centro de Zurique, próximo à estação central.
 
 5. **Rosenberg Indoor Golf**
@@ -454,13 +474,14 @@ O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário d
    - **Categoria:** Esportes
    - **Valor:** 60 francos suíços
 
-> _Fatos interessantes:_
+#### FATOS INTERESSANTES:
 
 - O Rosenberg Indoor Golf é um campo de golfe coberto, localizado no centro de Zurique.
 - O campo de golfe tem 9 buracos, e é ideal para jogadores de todos os níveis de habilidade.
 - O campo de golfe também oferece aulas e clínicas para jogadores que desejam melhorar seu jogo.
 
-<title>História:</title>
+#### HISTÓRIA:
+
 O Rosenberg Indoor Golf foi inaugurado em 2015 e tem se tornado um local popular para golfistas em Zurique.
 
 ### Restaurantes Vegetarianos em Zurique e Lucerna<a name="restaurantes-vegetarianos-na-suíça"></a>
