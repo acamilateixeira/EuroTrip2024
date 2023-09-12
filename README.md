@@ -40,14 +40,128 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
 ### Passeios:
 
-1. **Fórum Romano e Palatino**: Explore as ruínas históricas e desfrute de vistas panorâmicas. Média: 12 euros.
-2. **Galeria Borghese**: Visite uma galeria de arte com esculturas e pinturas renomadas. Média: 20 euros.
-3. **Passeio de Vespa por Roma**: Uma maneira divertida de explorar a cidade. Média: 70 euros.
-4. **Piazza Navona e Pantheon**: Caminhe por essas praças pitorescas e admire a arquitetura. Gratuito.
-5. **Passeio de barco pelo rio Tibre**: Veja Roma de uma perspectiva única. Média: 20 euros.
-6. **Piazza di Spagna (Escadaria Espanhola)**: Relaxe e aproveite a atmosfera. Gratuito.
-7. **Exploração do Trastevere**: Bairro charmoso com vielas estreitas e cafés. Gratuito.
-8. **Catacumbas de São Calisto**: Tour pelas catacumbas subterrâneas. Média: 8 euros.
+**1. **Galeria Borghese\*\*
+
+**Duração:** 2 horas
+**Categoria:** Cultural
+**Valor:** 40 euros
+
+_Fatos interessantes:_
+
+- A Galeria Borghese é uma das galerias de arte mais importantes do mundo.
+- A galeria abriga uma coleção de obras de arte de artistas como Rafael, Caravaggio e Bernini.
+- A galeria foi fundada no século 17 pelo cardeal Scipione Borghese.
+
+_História:_
+
+A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do papa Paulo V. O cardeal era um grande colecionador de arte e reuniu uma coleção impressionante de pinturas, esculturas e outros objetos artísticos. A galeria foi aberta ao público em 1903.
+
+---
+
+**2. **Passeio de Vespa por Roma\*\*
+
+**Duração:** 3 horas
+**Categoria:** Aventura
+**Valor:** 140 euros
+
+_Fatos interessantes:_
+
+- As Vespas são um símbolo da cultura italiana.
+- Um passeio de Vespa é uma maneira divertida e emocionante de explorar Roma.
+- O passeio pode ser personalizado para atender às preferências dos visitantes.
+
+_História:_
+
+As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um símbolo da cultura italiana e são populares em todo o mundo.
+
+---
+
+**3. **Piazza Navona e Pantheon\*\*
+
+**Duração:** 2 horas
+**Categoria:** Cultural
+**Valor:** Gratuito
+
+_Fatos interessantes:_
+
+- Piazza Navona é uma das praças mais famosas de Roma.
+- A praça é conhecida por suas fontes barrocas, incluindo a Fonte dos Quatro Rios.
+- O Pantheon é um templo romano bem preservado, que foi construído no século 2 d.C.
+
+_História:_
+
+Piazza Navona foi construída no século 14 no local do antigo estádio de Domiciano. O Pantheon foi construído no século 2 d.C. e foi dedicado a todos os deuses romanos.
+
+---
+
+**4. **Passeio de barco pelo rio Tibre\*\*
+
+**Duração:** 1 hora
+**Categoria:** Passeio ao Ar Livre
+**Valor:** 40 euros
+
+_Fatos interessantes:_
+
+- O rio Tibre é o rio mais importante de Roma.
+- O passeio de barco é uma maneira relaxante de ver a cidade de uma perspectiva diferente.
+- O passeio passa por alguns dos principais pontos turísticos de Roma, como o Castel Sant'Angelo e a Ponte Sant'Angelo.
+
+_História:_
+
+O rio Tibre é um rio que atravessa a Itália central. É o rio mais importante de Roma e foi fundamental para o desenvolvimento da cidade.
+
+---
+
+**5. **Piazza di Spagna (Escadaria Espanhola)\*\*
+
+**Duração:** Gratuito
+**Categoria:** Cultural
+
+_Fatos interessantes:_
+
+- Piazza di Spagna é uma das praças mais famosas de Roma.
+- A praça é conhecida por sua escadaria barroca, que leva à igreja Trinità dei Monti.
+- A praça é um local popular para turistas e moradores locais.
+
+_História:_
+
+Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanctis. A escadaria foi construída no século 19 pelo arquiteto Giuseppe Valadier.
+
+---
+
+**6. **Exploração do Trastevere\*\*
+
+**Duração:** Varia de acordo com a vontade do visitante
+**Categoria:** Cultural
+**Valor:** Gratuito
+
+_Fatos interessantes:_
+
+- Trastevere é um bairro histórico de Roma.
+- O bairro é conhecido por suas ruas estreitas, becos e atmosfera boêmia.
+- Trastevere é um ótimo lugar para experimentar a culinária romana.
+
+_História:_
+
+Trastevere é um bairro histórico de Roma que remonta à época romana. O bairro foi originalmente habitado por pescadores e trabalhadores e ainda mantém seu charme antigo.
+
+---
+
+**7. **Catacumbas de São Calisto\*\*
+
+**Duração:** 1 hora
+**Categoria:** Cultural
+**Valor:** 16 euros
+
+_Fatos interessantes:_
+
+- As catacumbas de São Calisto são um complexo de catacumbas subterrâneas em Roma.
+- As catacumbas são um local de sepultamento para cristãos primitivos.
+- As catacumbas abrigam uma variedade de artefatos religiosos, incluindo inscrições, pinturas e esculturas.
+
+_História:_
+
+As catacumbas de São Calisto foram construídas no século 2 d.C. Elas foram usadas para o
 
 ### Restaurantes Vegetarianos:
 
@@ -64,14 +178,178 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
 ### Passeios:
 
-1. **Passeio de Barco ao Vulcão Nea Kameni**: Explore um vulcão ativo e mergulhe em águas termais. Média: 30 euros.
-2. **Cruzeiro ao Pôr do Sol**: Desfrute de um romântico cruzeiro ao redor da ilha. Média: 40 euros.
-3. **Trilhas de Santorini**: Caminhe pelas trilhas para apreciar a paisagem única. Gratuito.
-4. **Museu da Pré-História de Thera**: Aprenda sobre a história da ilha. Média: 6 euros.
-5. **Vila de Pyrgos**: Explore a autêntica vila de Pyrgos e suas ruas estreitas. Gratuito.
-6. **Praia de Kamari**: Relaxe na praia de areia negra. Gratuito.
-7. **Praia de Red Beach**: Visite a icônica praia de areia vermelha. Gratuito.
-8. **Praia de Perissa**: Aproveite o sol e o mar na praia de Perissa. Gratuito.
+**1. **Passeio de Barco ao Vulcão Nea Kameni\*\*
+
+**Duração:** 4 horas
+**Categoria:** Aventura
+**Valor:** 80 euros
+
+_Fatos interessantes:_
+
+- O vulcão Nea Kameni é um vulcão ativo, que entrou em erupção pela última vez em 1950.
+- O passeio de barco ao vulcão Nea Kameni é uma oportunidade única de ver de perto um vulcão ativo.
+- O passeio inclui uma caminhada pela cratera do vulcão, onde é possível ver as fumarolas e piscinas de lava.
+
+_História:_
+
+O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado no século 17 a.C. O vulcão é resultado de uma série de erupções vulcânicas que ocorreram na ilha de Santorini.
+
+---
+
+**2. **Cruzeiro ao Pôr do Sol\*\*
+
+**Duração:** 2 horas
+**Categoria:** Romântico
+**Valor:** 100 euros
+
+_Fatos interessantes:_
+
+- Santorini é um dos melhores lugares do mundo para assistir ao pôr do sol.
+- O cruzeiro ao pôr do sol é uma maneira perfeita de apreciar a beleza da ilha e desfrutar de uma experiência romântica.
+- O cruzeiro geralmente inclui uma degustação de vinhos locais.
+
+_História:_
+
+O pôr do sol de Santorini é um fenômeno natural único, que é resultado da combinação de vários fatores, incluindo a localização da ilha, a composição geológica do solo e o clima.
+
+---
+
+**3. **Trilhas de Santorini\*\*
+
+**Duração:** Varia de acordo com a trilha escolhida
+**Categoria:** Aventura
+**Valor:** Gratuito
+
+_Fatos interessantes:_
+
+- Santorini tem uma rede de trilhas bem desenvolvida, que oferecem vistas deslumbrantes da ilha.
+- As trilhas variam de nível de dificuldade, desde trilhas fáceis para caminhadas familiares até trilhas desafiadoras para os mais aventureiros.
+- As trilhas são uma ótima maneira de explorar a ilha e de se conectar com a natureza.
+
+_História:_
+
+As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha as usavam para se locomover entre as diferentes partes da ilha.
+
+---
+
+**4. **Museu da Pré-História de Thera\*\*
+
+**Duração:** 2 horas
+**Categoria:** Cultural
+**Valor:** 12 euros
+
+_Fatos interessantes:_
+
+- O Museu da Pré-História de Thera abriga uma coleção de artefatos e descobertas arqueológicas da ilha de Santorini.
+- A coleção inclui objetos que datam de 3.600 a.C., incluindo afrescos, cerâmica e jóias.
+- O museu oferece uma visão fascinante da história e cultura da ilha.
+
+_História:_
+
+O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibir os artefatos encontrados em escavações arqueológicas na ilha de Santorini.
+
+---
+
+**5. **Vila de Pyrgos\*\*
+
+**Duração:** 2 horas
+**Categoria:** Cultural
+**Valor:** Gratuito
+
+_Fatos interessantes:_
+
+- Pyrgos é uma vila tradicional de Santorini, situada no topo de uma colina.
+- A vila é conhecida por suas ruas estreitas, casas brancas e vistas panorâmicas da ilha.
+- Pyrgos é um ótimo lugar para aprender sobre a cultura e a história de Santorini.
+
+_História:_
+
+Pyrgos foi fundada no século 16 e foi um importante centro comercial e religioso durante a Idade Média.
+
+---
+
+**6. **Praia de Kamari\*\*
+
+**Duração:** Varia de acordo com a vontade do visitante
+**Categoria:** Praia
+**Valor:** Gratuito
+
+_Fatos interessantes:_
+
+- Kamari é uma das praias mais populares de Santorini.
+- A praia é conhecida por sua areia negra vulcânica, mar cristalino e águas calmas.
+- Kamari é um ótimo lugar para relaxar e aproveitar o sol.
+
+_História:_
+
+A praia de Kamari foi formada pela atividade vulcânica da ilha.
+
+---
+
+**7. **Praia de Red Beach\*\*
+
+**Duração:** Varia de acordo com a vontade do visitante
+**Categoria:** Praia
+**Valor:** Gratuito
+
+_Fatos interessantes:_
+
+- Red Beach é uma das praias mais famosas de Santorini.
+- A praia é conhecida por suas formações rochosas
+
+---
+
+**8. **Praia de Perissa\*\*
+
+**Duração:** Varia de acordo com a vontade do visitante
+**Categoria:** Praia
+**Valor:** Gratuito
+
+_Fatos interessantes:_
+
+- Perissa é uma das praias mais longas de Santorini.
+- A praia é conhecida por sua areia negra vulcânica e mar cristalino.
+- Perissa é um ótimo lugar para relaxar e aproveitar o sol.
+
+_História:_
+
+A praia de Perissa foi formada pela atividade vulcânica da ilha.
+
+---
+
+**9. **Museu do Vinho de Santorini\*\*
+
+**Duração:** 1 hora
+**Categoria:** Cultural
+**Valor:** 20 euros
+
+_Fatos interessantes:_
+
+- O Museu do Vinho de Santorini é o único museu do vinho na Grécia.
+- O museu abriga uma coleção de objetos relacionados ao vinho, incluindo jarros, barris e prensas de vinho.
+- O museu também oferece degustações de vinhos locais.
+
+_História:_
+
+O Museu do Vinho de Santorini foi inaugurado em 2016 para preservar e exibir a história da viticultura na ilha de Santorini.
+
+---
+
+**10. **Passeio de Quadriciclo pela Ilha\*\*
+
+**Duração:** 3 horas
+**Categoria:** Aventura
+**Valor:** 60 euros
+
+_Fatos interessantes:_
+
+- O passeio de quadriciclo pela ilha é uma maneira divertida e emocionante de explorar Santorini.
+- O passeio passa por vilas, praias e pontos turísticos pitorescos.
+- O passeio é uma ótima opção para os aventureiros.
+
+_História:_
+
+Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente se tornaram uma forma popular de transporte na ilha.
 
 ### Restaurantes Vegetarianos:
 
@@ -88,14 +366,93 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
 ### Passeios:
 
-1. **Museu Nacional Suíço**: Conheça a história da Suíça. Média: 10 francos suíços.
-2. **Limmat River Cruise**: Passeio de barco pelo rio Limmat. Média: 20 francos suíços.
-3. **Passeio pelo Lago de Zurique**: Desfrute das vistas panorâmicas do lago. Média: 10 francos suíços.
-4. **Passeio de Trem até o Monte Pilatus**: Suba a montanha de trem e teleférico. Média: 70 francos suíços.
-5. **Museu de Arte de Zurique**: Explore uma coleção diversificada de arte. Média: 15 francos suíços.
-6. **Uetliberg Mountain**: Caminhada até o topo para vistas panorâmicas. Gratuito.
-7. **Passeio pela Cidade Velha de Zurique**: Descubra a história da cidade. Gratuito.
-8. **Rosenberg Indoor Golf**: Jogue golfe em ambiente fechado. Média: 25 francos suíços.
+**1. **Limmat River Cruise\*\*
+
+**Duração:** 1 hora
+**Categoria:** Passeio ao Ar Livre
+**Valor:** 40 francos suíços
+
+_Fatos interessantes:_
+
+- O rio Limmat é um dos rios mais importantes da Suíça, cortando 13 dos 26 cantões do país.
+- O rio Limmat é também um dos rios mais limpos da Europa, e é usado para o abastecimento de água potável de Zurique.
+- Durante o passeio, você poderá ver algumas das principais atrações de Zurique, como a Bahnhofstrasse, a Lindenhof e a Grossmünster.
+
+_História:_
+
+O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em documentos históricos do século 12. O rio foi usado por séculos como um importante meio de transporte e comunicação, e também foi um importante local de comércio e indústria.
+
+---
+
+**2. **Passeio de Trem até o Monte Uetliberg\*\*
+
+**Duração:** 30 minutos de trem + 1 hora de caminhada
+**Categoria:** Aventura
+**Valor:** 25 francos suíços
+
+_Fatos interessantes:_
+
+- O Monte Uetliberg é o ponto mais alto de Zurique, com 870 metros de altitude.
+- O Monte Uetliberg oferece vistas deslumbrantes da cidade de Zurique e dos Alpes suíços.
+- O passeio de trem até o Monte Uetliberg é uma experiência única, passando por uma paisagem montanhosa de tirar o fôlego.
+
+_História:_
+
+O Monte Uetliberg tem sido um importante local para os habitantes de Zurique desde a Idade Média. No século 19, o Monte Uetliberg tornou-se um destino popular para passeios e excursões.
+
+---
+
+**3. **Passeio pela Cidade Velha de Zurique\*\*
+
+**Duração:** 3 horas
+**Categoria:** Cultural
+**Valor:** Gratuito
+
+_Fatos interessantes:_
+
+- A Cidade Velha de Zurique é um Patrimônio Mundial da UNESCO.
+- A Cidade Velha é repleta de edifícios históricos, incluindo igrejas, torres e casas de guildas.
+- A Cidade Velha é também um centro comercial e cultural, com lojas, restaurantes e galerias de arte.
+
+_História:_
+
+A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A área é repleta de história, com edifícios que datam do século 13. A Cidade Velha é também um importante centro comercial e cultural, com lojas, restaurantes e galerias de arte.
+
+---
+
+**4. **Museu FIFA World Football\*\*
+
+**Duração:** 3 horas
+**Categoria:** Esportes
+**Valor:** 50 francos suíços
+
+_Fatos interessantes:_
+
+- O Museu FIFA World Football é o museu oficial da FIFA.
+- O museu apresenta uma coleção de mais de 1.000 objetos relacionados ao futebol, incluindo troféus, camisas e bolas.
+- O museu também apresenta exposições interativas que permitem aos visitantes aprender sobre a história e a cultura do futebol.
+
+_História:_
+
+O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário da FIFA. O museu está localizado no centro de Zurique, próximo à estação central.
+
+---
+
+**5. **Rosenberg Indoor Golf\*\*
+
+**Duração:** 1 hora
+**Categoria:** Esportes
+**Valor:** 60 francos suíços
+
+_Fatos interessantes:_
+
+- O Rosenberg Indoor Golf é um campo de golfe coberto, localizado no centro de Zurique.
+- O campo de golfe tem 9 buracos, e é ideal para jogadores de todos os níveis de habilidade.
+- O campo de golfe também oferece aulas e clínicas para jogadores de todos os níveis.
+
+_História:_
+
+O Rosenberg Indoor Golf foi inaugurado em 2005. O campo de golfe está localizado no centro de Zurique, próximo ao rio Limmat.
 
 ### Restaurantes Vegetarianos:
 
