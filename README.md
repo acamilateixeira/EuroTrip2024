@@ -103,6 +103,21 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
    _História:_
    Piazza Navona foi construída no século 14 no local do antigo estádio de Domiciano. O Pantheon foi construído no século 2 d.C. e foi dedicado a todos os deuses romanos.
 
+   A Piazza Navona e o Pantheon são dois dos monumentos mais famosos de Roma, na Itália. A Piazza Navona é uma praça oval que foi construída no século XVI, sobre os restos de um antigo estádio romano. O Pantheon é um templo romano do século II d.C., que é considerado uma das maravilhas arquitetônicas do mundo.
+
+A Piazza Navona foi originalmente um estádio romano, construído no século I a.C. pelo imperador Domiciano. O estádio foi usado para competições esportivas e festivais. No século XVI, o papa Inocêncio X encomendou a construção de uma nova praça no local do estádio. Os projetos foram feitos pelo arquiteto Giacomo Della Porta.
+
+A praça foi construída em forma oval, para refletir a forma do antigo estádio. No centro da praça, está a Fontana dei Quattro Fiumi, uma fonte monumental que foi construída por Bernini. A fonte representa os quatro principais rios do mundo: o Nilo, o Ganges, o Danúbio e o Rio de la Plata.
+
+O Pantheon é um templo romano que foi construído no século II d.C. pelo imperador Adriano. O templo é dedicado a todos os deuses do panteão romano. O Pantheon é considerado uma das maravilhas arquitetônicas do mundo, devido à sua cúpula de concreto maciço.
+
+A cúpula do Pantheon tem 43 metros de diâmetro e 43 metros de altura. A cúpula é feita de concreto maciço, sem reforços. A cúpula é tão resistente que, durante um bombardeio aéreo na Segunda Guerra Mundial, uma bomba atingiu o templo e ricocheteou na cúpula, sem causar nenhum dano.
+
+A Piazza Navona e o Pantheon são dois dos monumentos mais visitados de Roma. Eles são um exemplo da riqueza histórica e cultural da cidade.
+
+<img scr='https://u9e6s4x4.stackpathcdn.com/wp-content/uploads/2023/05/p.jpg'>
+<img scr='https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg'>
+
 4. **Passeio de barco pelo rio Tibre**
 
    **Duração:** 1 hora
@@ -116,7 +131,31 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
    - O passeio passa por alguns dos principais pontos turísticos de Roma, como o Castel Sant'Angelo e a Ponte Sant'Angelo.
 
    _História:_
-   O rio Tibre é um rio que atravessa a Itália central. É o rio mais importante de Roma e foi fundamental para o desenvolvimento da cidade.
+
+O rio Tibre é um rio que atravessa a Itália central, com 405 km de extensão. Ele nasce no Monte Fumaiolo, na região dos Apeninos, e deságua no Mar Tirreno, perto de Ostia.
+
+O Tibre é um rio importante para a história da Itália, pois foi ao longo dele que surgiu a cidade de Roma. A cidade foi fundada no ano 753 a.C., às margens do rio.
+
+O Tibre também foi importante para o desenvolvimento da civilização romana. Ele era usado como via de comunicação e transporte, e também era uma fonte de água potável e para irrigação.
+
+O Tibre é um rio que foi palco de diversos acontecimentos históricos. Em 1548, o rio sofreu uma grande enchente, que causou grande destruição em Roma.
+
+No século XX, o Tibre foi alvo de diversos projetos de revitalização. O rio foi despoluído e foram construídos diversos parques e áreas de lazer nas suas margens.
+
+Hoje, o Tibre é um rio importante para o turismo e a recreação na Itália. Ele é um dos principais pontos turísticos de Roma, e é um local popular para passeios de barco, pesca e outras atividades.
+
+Aqui estão alguns dos principais acontecimentos históricos relacionados ao rio Tibre:
+
+- 753 a.C.: Fundação da cidade de Roma às margens do rio.
+- 509 a.C.: Fundação da República Romana.
+- 27 a.C.: Fundação do Império Romano.
+- 410 d.C.: Queda do Império Romano do Ocidente.
+- 1548: Grande enchente do rio Tibre em Roma.
+- 1870: Unificação da Itália.
+- 1945: Fim da Segunda Guerra Mundial.
+- 1950: Início dos projetos de revitalização do rio Tibre.
+
+O rio Tibre é um rio importante para a história e a cultura da Itália. Ele é um símbolo da cidade de Roma e um importante destino turístico.
 
 5. **Piazza di Spagna (Escadaria Espanhola)**
 
@@ -125,12 +164,28 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
    _Fatos interessantes:_
 
-   - Piazza di Spagna é uma das praças mais famosas de Roma.
-   - A praça é conhecida por sua escadaria barroca, que leva à igreja Trinità dei Monti.
-   - A praça é um local popular para turistas e moradores locais.
+   - A escadaria foi inspirada na escadaria do Louvre, em Paris.
+   - A escadaria é frequentemente usada como cenário para filmes e programas de TV como o clássico A Princesa e o Plebeu.
+   - A praça é o lar da fonte Barcaccia, que foi esculpida pelo artista Pietro Bernini.
 
    _História:_
-   Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanctis. A escadaria foi construída no século 19 pelo arquiteto Giuseppe Valadier.
+
+   Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanctis.
+
+   A Piazza di Spagna, ou Praça de Espanha, é uma das praças mais famosas de Roma, na Itália.
+   Ela é conhecida por sua monumental escadaria, com 135 degraus, que leva à igreja Trinità dei Monti, no alto do morro.
+
+A história da Piazza di Spagna começa no século XVII, quando a França construiu uma embaixada na praça.
+Os franceses queriam conectar sua embaixada à igreja Trinità dei Monti, que era um símbolo da Igreja Católica.
+
+Em 1721, o papa Bento XIII autorizou a construção da escadaria.
+A escadaria foi construída em mármore branco e tem um formato curvo, que se assemelha a um lance de escadas.
+
+A escadaria foi inaugurada em 1725, por ocasião do Jubileu de Ouro do papa Bento XIII.
+Ela foi um grande sucesso, e logo se tornou um dos pontos turísticos mais visitados de Roma.
+
+A escadaria foi cenário de diversos filmes, como "La Dolce Vita", de Federico Fellini, e "A Princesa e o Plebeu", de William Wyler.
+Ela também é um lugar popular para artistas e poetas, e é frequentemente usada como cenário para apresentações e eventos.
 
 6. **Exploração do Trastevere**
 
@@ -155,12 +210,19 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
    _Fatos interessantes:_
 
-   - As catacumbas de São Calisto são um complexo de catacumbas subterrâneas em Roma.
-   - As catacumbas são um local de sepultamento para cristãos primitivos.
+   - As catacumbas abrigam os restos mortais de vários papas e bispos.
+   - Elas são um dos maiores complexos de catacumbas do mundo, com mais de 20 quilômetros de túneis.
    - As catacumbas abrigam uma variedade de artefatos religiosos, incluindo inscrições, pinturas e esculturas.
 
    _História:_
-   As catacumbas de São Calisto foram construídas no século 2 d.C.
+   As catacumbas de São Calisto são um labirinto de túneis subterrâneos que abrigam milhares de sepulturas de cristãos primitivos.
+   Elas foram construídas no século 2 d.C. e se tornaram um importante local de sepultamento para os cristãos que eram perseguidos pelo Império Romano.
+
+   Além de servir como um cemitério, as catacumbas também eram usadas para rituais religiosos e missas.
+   Elas contêm uma série de inscrições, pinturas e esculturas que fornecem insights sobre a vida e as crenças dos cristãos primitivos.
+
+   Hoje, as catacumbas de São Calisto são um importante local de peregrinação e um testemunho da história cristã em Roma.
+   Elas representam um lugar onde os primeiros cristãos praticaram sua fé em tempos de adversidade.
 
 ### Restaurantes Vegetarianos na Itália<a name="restaurantes-vegetarianos-na-italia"></a>
 
