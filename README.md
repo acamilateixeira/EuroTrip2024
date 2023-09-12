@@ -71,8 +71,7 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 - A galeria foi fundada no século 17 pelo cardeal Scipione Borghese.
 
 > _História:_
-
-A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do papa Paulo V. O cardeal era um grande colecionador de arte e reuniu uma coleção impressionante de pinturas, esculturas e outros objetos artísticos. A galeria foi aberta ao público em 1903.
+> A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do papa Paulo V. O cardeal era um grande colecionador de arte e reuniu uma coleção impressionante de pinturas, esculturas e outros objetos artísticos. A galeria foi aberta ao público em 1903.
 
 2. **Passeio de Vespa por Roma**
 
@@ -87,8 +86,7 @@ A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do pa
 - O passeio pode ser personalizado para atender às preferências dos visitantes.
 
 > _História:_
-
-As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um símbolo da cultura italiana e são populares em todo o mundo.
+> As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um símbolo da cultura italiana e são populares em todo o mundo.
 
 3. **Piazza Navona e Pantheon**
 
@@ -103,8 +101,7 @@ As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um sím
 - O Pantheon é um templo romano bem preservado, que foi construído no século 2 d.C.
 
 > _História:_
-
-Piazza Navona foi construída no século 14 no local do antigo estádio de Domiciano. O Pantheon foi construído no século 2 d.C. e foi dedicado a todos os deuses romanos.
+> Piazza Navona foi construída no século 14 no local do antigo estádio de Domiciano. O Pantheon foi construído no século 2 d.C. e foi dedicado a todos os deuses romanos.
 
 A Piazza Navona e o Pantheon são dois dos monumentos mais famosos de Roma, na Itália. A Piazza Navona é uma praça oval que foi construída no século XVI, sobre os restos de um antigo estádio romano. O Pantheon é um templo romano do século II d.C., que é considerado uma das maravilhas arquitetônicas do mundo.
 A Piazza Navona foi originalmente um estádio romano, construído no século I a.C. pelo imperador Domiciano. O estádio foi usado para competições esportivas e festivais. No século XVI, o papa Inocêncio X encomendou a construção de uma nova praça no local do estádio. Os projetos foram feitos pelo arquiteto Giacomo Della Porta.
@@ -129,12 +126,11 @@ A Piazza Navona e o Pantheon são dois dos monumentos mais visitados de Roma. El
 - O passeio passa por alguns dos principais pontos turísticos de Roma, como o Castel Sant'Angelo e a Ponte Sant'Angelo.
 
 > _História:_
-
-O rio Tibre é um rio que atravessa a Itália central, com 405 km de extensão. Ele nasce no Monte Fumaiolo, na região dos Apeninos, e deságua no Mar Tirreno, perto de Ostia.
-O Tibre é um rio importante para a história da Itália, pois foi ao longo dele que surgiu a cidade de Roma. A cidade foi fundada no ano 753 a.C., às margens do rio.
-O Tibre também foi importante para o desenvolvimento da civilização romana. Ele era usado como via de comunicação e transporte, e também era uma fonte de água potável e para irrigação.
-O Tibre é um rio que foi palco de diversos acontecimentos históricos. Em 1548, o rio sofreu uma grande enchente, que causou grande destruição em Roma.
-No século XX, o Tibre foi alvo de diversos projetos de revitalização. O rio foi despoluído e foram construídos diversos parques e áreas de lazer nas suas margens.
+> O rio Tibre é um rio que atravessa a Itália central, com 405 km de extensão. Ele nasce no Monte Fumaiolo, na região dos Apeninos, e deságua no Mar Tirreno, perto de Ostia.
+> O Tibre é um rio importante para a história da Itália, pois foi ao longo dele que surgiu a cidade de Roma. A cidade foi fundada no ano 753 a.C., às margens do rio.
+> O Tibre também foi importante para o desenvolvimento da civilização romana. Ele era usado como via de comunicação e transporte, e também era uma fonte de água potável e para irrigação.
+> O Tibre é um rio que foi palco de diversos acontecimentos históricos. Em 1548, o rio sofreu uma grande enchente, que causou grande destruição em Roma.
+> No século XX, o Tibre foi alvo de diversos projetos de revitalização. O rio foi despoluído e foram construídos diversos parques e áreas de lazer nas suas margens.
 
 Hoje, o Tibre é um rio importante para o turismo e a recreação na Itália. Ele é um dos principais pontos turísticos de Roma, e é um local popular para passeios de barco, pesca e outras atividades.
 Aqui estão alguns dos principais acontecimentos históricos relacionados ao rio Tibre:
@@ -162,8 +158,7 @@ O rio Tibre é um rio importante para a história e a cultura da Itália. Ele é
 - A praça é o lar da fonte Barcaccia, que foi esculpida pelo artista Pietro Bernini.
 
 > _História:_
-
-Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanctis.
+> Piazza di Spagna foi construída no século 18 pelo arquiteto Francesco de Sanctis.
 
 A Piazza di Spagna, ou Praça de Espanha, é uma das praças mais famosas de Roma, na Itália.
 Ela é conhecida por sua monumental escadaria, com 135 degraus, que leva à igreja Trinità dei Monti, no alto do morro.
@@ -193,8 +188,7 @@ Ela também é um lugar popular para artistas e poetas, e é frequentemente usad
 - Trastevere é um ótimo lugar para experimentar a culinária romana.
 
 > _História:_
-
-Trastevere é um bairro histórico de Roma que remonta à época romana. O bairro foi originalmente habitado por pescadores e trabalhadores e ainda mantém seu charme antigo.
+> Trastevere é um bairro histórico de Roma que remonta à época romana. O bairro foi originalmente habitado por pescadores e trabalhadores e ainda mantém seu charme antigo.
 
 7. **Catacumbas de São Calisto**
 
@@ -209,9 +203,8 @@ Trastevere é um bairro histórico de Roma que remonta à época romana. O bairr
 - As catacumbas abrigam uma variedade de artefatos religiosos, incluindo inscrições, pinturas e esculturas.
 
 > _História:_
-
-As catacumbas de São Calisto são um labirinto de túneis subterrâneos que abrigam milhares de sepulturas de cristãos primitivos.
-Elas foram construídas no século 2 d.C. e se tornaram um importante local de sepultamento para os cristãos que eram perseguidos pelo Império Romano.
+> As catacumbas de São Calisto são um labirinto de túneis subterrâneos que abrigam milhares de sepulturas de cristãos primitivos.
+> Elas foram construídas no século 2 d.C. e se tornaram um importante local de sepultamento para os cristãos que eram perseguidos pelo Império Romano.
 
 Além de servir como um cemitério, as catacumbas também eram usadas para rituais religiosos e missas.
 Elas contêm uma série de inscrições, pinturas e esculturas que fornecem insights sobre a vida e as crenças dos cristãos primitivos.
@@ -246,8 +239,7 @@ Elas representam um lugar onde os primeiros cristãos praticaram sua fé em temp
 - O passeio inclui uma caminhada pela cratera do vulcão, onde é possível ver as fumarolas e piscinas de lava.
 
 > _História:_
-
-O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado no século 17 a.C. O vulcão é resultado de uma série de erupções vulcânicas que ocorreram na ilha de Santorini.
+> O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado no século 17 a.C. O vulcão é resultado de uma série de erupções vulcânicas que ocorreram na ilha de Santorini.
 
 2. **Cruzeiro ao Pôr do Sol**
 
@@ -262,8 +254,7 @@ O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado n
 - O cruzeiro geralmente inclui uma degustação de vinhos locais.
 
 > _História:_
-
-O pôr do sol de Santorini é um fenômeno natural único, que é resultado da combinação de vários fatores, incluindo a localização da ilha, a composição geológica do solo e o clima.
+> O pôr do sol de Santorini é um fenômeno natural único, que é resultado da combinação de vários fatores, incluindo a localização da ilha, a composição geológica do solo e o clima.
 
 3. **Trilhas de Santorini**
 
@@ -278,8 +269,7 @@ O pôr do sol de Santorini é um fenômeno natural único, que é resultado da c
 - As trilhas são uma ótima maneira de explorar a ilha e de se conectar com a natureza.
 
 > _História:_
-
-As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha as usavam para se locomover entre as diferentes partes da ilha.
+> As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha as usavam para se locomover entre as diferentes partes da ilha.
 
 4. **Museu da Pré-História de Thera**
 
@@ -294,8 +284,7 @@ As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha
 - O museu oferece uma visão fascinante da história e cultura da ilha.
 
 > _História:_
-
-O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibir os artefatos encontrados em escavações arqueológicas na ilha de Santorini.
+> O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibir os artefatos encontrados em escavações arqueológicas na ilha de Santorini.
 
 5. **Vila de Pyrgos**
 
@@ -310,8 +299,7 @@ O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibi
 - Pyrgos é um ótimo lugar para aprender sobre a cultura e a história de Santorini.
 
 > _História:_
-
-Pyrgos foi fundada no século 16 e foi um importante centro comercial e religioso durante a Idade Média.
+> Pyrgos foi fundada no século 16 e foi um importante centro comercial e religioso durante a Idade Média.
 
 6. **Praia de Kamari**
 
@@ -326,8 +314,7 @@ Pyrgos foi fundada no século 16 e foi um importante centro comercial e religios
 - Kamari é um ótimo lugar para relaxar e aproveitar o sol.
 
 > _História:_
-
-A praia de Kamari foi formada pela atividade vulcânica da ilha.
+> A praia de Kamari foi formada pela atividade vulcânica da ilha.
 
 7. **Praia de Red Beach**
 
@@ -353,8 +340,7 @@ A praia de Kamari foi formada pela atividade vulcânica da ilha.
 - Perissa é um ótimo lugar para relaxar e aproveitar o sol.
 
 > _História:_
-
-A praia de Perissa foi formada pela atividade vulcânica da ilha.
+> A praia de Perissa foi formada pela atividade vulcânica da ilha.
 
 9. **Museu do Vinho de Santorini**
 
@@ -370,8 +356,7 @@ A praia de Perissa foi formada pela atividade vulcânica da ilha.
 - O museu também oferece degustações de vinhos locais.
 
 > _História:_
-
-O Museu do Vinho de Santorini foi inaugurado em 2016 para preservar e exibir a história da viticultura na ilha de Santorini.
+> O Museu do Vinho de Santorini foi inaugurado em 2016 para preservar e exibir a história da viticultura na ilha de Santorini.
 
 10. **Passeio de Quadriciclo pela Ilha**
 
@@ -386,8 +371,7 @@ O Museu do Vinho de Santorini foi inaugurado em 2016 para preservar e exibir a h
 - O passeio é uma ótima opção para os aventureiros.
 
 > _História:_
-
-Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente se tornaram uma forma popular de transporte na ilha.
+> Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente se tornaram uma forma popular de transporte na ilha.
 
 ### Restaurantes Vegetarianos em Santorini<a name="restaurantes-vegetarianos-em-santorini"></a>
 
@@ -417,8 +401,7 @@ Os quadriciclos foram introduzidos em Santorini na década de 1990 e rapidamente
 - Durante o passeio, você poderá ver algumas das principais atrações de Zurique, como a Bahnhofstrasse, a Lindenhof e a Grossmünster.
 
 > _História:_
-
-O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em documentos históricos do século 12. O rio foi usado por séculos como um importante meio de transporte e comunicação, e também foi um importante local de comércio e indústria.
+> O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em documentos históricos do século 12. O rio foi usado por séculos como um importante meio de transporte e comunicação, e também foi um importante local de comércio e indústria.
 
 2. **Passeio de Trem até o Monte Uetliberg**
 
@@ -433,8 +416,7 @@ O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em docu
 - O passeio de trem até o Monte Uetliberg é uma experiência única, passando por uma paisagem montanhosa de tirar o fôlego.
 
 > _História:_
-
-O Monte Uetliberg tem sido um importante local para os habitantes de Zurique desde a Idade Média. No século 19, o Monte Uetliberg tornou-se um destino popular para passeios e excursões.
+> O Monte Uetliberg tem sido um importante local para os habitantes de Zurique desde a Idade Média. No século 19, o Monte Uetliberg tornou-se um destino popular para passeios e excursões.
 
 3. **Passeio pela Cidade Velha de Zurique**
 
@@ -449,8 +431,7 @@ O Monte Uetliberg tem sido um importante local para os habitantes de Zurique des
 - A Cidade Velha é também um centro comercial e cultural, com lojas, restaurantes e galerias de arte.
 
 > _História:_
-
-A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A área é repleta de história, com edifícios que datam do século 13. A Cidade Velha é também um importante centro comercial e cultural, com lojas, restaurantes e galerias de arte.
+> A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A área é repleta de história, com edifícios que datam do século 13. A Cidade Velha é também um importante centro comercial e cultural, com lojas, restaurantes e galerias de arte.
 
 4. **Museu FIFA World Football**
 
@@ -465,8 +446,7 @@ A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A �
 - O museu também apresenta exposições interativas que permitem aos visitantes aprender sobre a história e a cultura do futebol.
 
 > _História:_
-
-O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário da FIFA. O museu está localizado no centro de Zurique, próximo à estação central.
+> O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário da FIFA. O museu está localizado no centro de Zurique, próximo à estação central.
 
 5. **Rosenberg Indoor Golf**
 
@@ -481,8 +461,7 @@ O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário d
 - O campo de golfe também oferece aulas e clínicas para jogadores que desejam melhorar seu jogo.
 
 > _História:_
-
-O Rosenberg Indoor Golf foi inaugurado em 2015 e tem se tornado um local popular para golfistas em Zurique.
+> O Rosenberg Indoor Golf foi inaugurado em 2015 e tem se tornado um local popular para golfistas em Zurique.
 
 ### Restaurantes Vegetarianos em Zurique e Lucerna<a name="restaurantes-vegetarianos-na-suíça"></a>
 
