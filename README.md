@@ -74,6 +74,8 @@ _**HISTÓRIA:**_
 
 A Galeria Borghese foi fundada pelo cardeal Scipione Borghese, um sobrinho do papa Paulo V. O cardeal era um grande colecionador de arte e reuniu uma coleção impressionante de pinturas, esculturas e outros objetos artísticos. A galeria foi aberta ao público em 1903.
 
+---
+
 2. **Passeio de Vespa por Roma**
 
    - **Duração:** 3 horas
@@ -89,6 +91,8 @@ _**FATOS INTERESSANTES:**_
 _**HISTÓRIA:**_
 
 As Vespas foram criadas na Itália em 1946. Elas rapidamente se tornaram um símbolo da cultura italiana e são populares em todo o mundo.
+
+---
 
 3. **Piazza Navona e Pantheon**
 
@@ -115,6 +119,8 @@ A Piazza Navona e o Pantheon são dois dos monumentos mais visitados de Roma. El
 
 ![Piazza Navona](https://u9e6s4x4.stackpathcdn.com/wp-content/uploads/2023/05/p.jpg)
 ![Pantheon](https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg)
+
+---
 
 4. **Passeio de barco pelo rio Tibre**
 
@@ -150,6 +156,8 @@ Aqui estão alguns dos principais acontecimentos históricos relacionados ao rio
 
 O rio Tibre é um rio importante para a história e a cultura da Itália. Ele é um símbolo da cidade de Roma e um importante destino turístico.
 
+---
+
 5. **Piazza di Spagna (Escadaria Espanhola)**
 
    - **Duração:** Gratuito
@@ -180,6 +188,8 @@ Ela foi um grande sucesso, e logo se tornou um dos pontos turísticos mais visit
 A escadaria foi cenário de diversos filmes, como "La Dolce Vita", de Federico Fellini, e "A Princesa e o Plebeu", de William Wyler.
 Ela também é um lugar popular para artistas e poetas, e é frequentemente usada como cenário para apresentações e eventos.
 
+---
+
 6. **Exploração do Trastevere**
 
    - **Duração:** Varia de acordo com a vontade do visitante
@@ -195,6 +205,8 @@ _**FATOS INTERESSANTES:**_
 _**HISTÓRIA:**_
 
 Trastevere é um bairro histórico de Roma que remonta à época romana. O bairro foi originalmente habitado por pescadores e trabalhadores e ainda mantém seu charme antigo.
+
+---
 
 7. **Catacumbas de São Calisto**
 
@@ -249,6 +261,8 @@ _**HISTÓRIA:**_
 
 O vulcão Nea Kameni é um dos vulcões mais jovens do mundo, tendo se formado no século 17 a.C. O vulcão é resultado de uma série de erupções vulcânicas que ocorreram na ilha de Santorini.
 
+---
+
 2. **Cruzeiro ao Pôr do Sol**
 
    - **Duração:** 2 horas
@@ -264,6 +278,8 @@ _**FATOS INTERESSANTES:**_
 _**HISTÓRIA:**_
 
 O pôr do sol de Santorini é um fenômeno natural único, que é resultado da combinação de vários fatores, incluindo a localização da ilha, a composição geológica do solo e o clima.
+
+---
 
 3. **Trilhas de Santorini**
 
@@ -281,6 +297,8 @@ _**HISTÓRIA:**_
 
 As trilhas de Santorini foram criadas há séculos, quando os habitantes da ilha as usavam para se locomover entre as diferentes partes da ilha.
 
+---
+
 4. **Museu da Pré-História de Thera**
 
    - **Duração:** 2 horas
@@ -296,6 +314,8 @@ _**FATOS INTERESSANTES:**_
 _**HISTÓRIA:**_
 
 O Museu da Pré-História de Thera foi inaugurado em 1960 para preservar e exibir os artefatos encontrados em escavações arqueológicas na ilha de Santorini.
+
+---
 
 5. **Vila de Pyrgos**
 
@@ -313,6 +333,8 @@ _**HISTÓRIA:**_
 
 Pyrgos foi fundada no século 16 e foi um importante centro comercial e religioso durante a Idade Média.
 
+---
+
 6. **Praia de Kamari**
 
    - **Duração:** Varia de acordo com a vontade do visitante
@@ -329,6 +351,8 @@ _**HISTÓRIA:**_
 
 A praia de Kamari foi formada pela atividade vulcânica da ilha.
 
+---
+
 7. **Praia de Red Beach**
 
    - **Duração:** Varia de acordo com a vontade do visitante
@@ -339,6 +363,8 @@ _**FATOS INTERESSANTES:**_
 
 - Red Beach é uma das praias mais famosas de Santorini.
 - A praia é conhecida por suas formações rochosas.
+
+---
 
 8. **Praia de Perissa**
 
@@ -356,6 +382,8 @@ _**HISTÓRIA:**_
 
 A praia de Perissa foi formada pela atividade vulcânica da ilha.
 
+---
+
 9. **Museu do Vinho de Santorini**
 
    - **Duração:** 1 hora
@@ -372,6 +400,8 @@ _**FATOS INTERESSANTES:**_
 _**HISTÓRIA:**_
 
 O Museu do Vinho de Santorini foi inaugurado em 2016 para preservar e exibir a história da viticultura na ilha de Santorini.
+
+---
 
 10. **Passeio de Quadriciclo pela Ilha**
 
@@ -420,6 +450,8 @@ _**HISTÓRIA:**_
 
 O rio Limmat tem uma longa história, sendo mencionado pela primeira vez em documentos históricos do século 12. O rio foi usado por séculos como um importante meio de transporte e comunicação, e também foi um importante local de comércio e indústria.
 
+---
+
 2. **Passeio de Trem até o Monte Uetliberg**
 
    - **Duração:** 30 minutos de trem + 1 hora de caminhada
@@ -435,6 +467,8 @@ _**FATOS INTERESSANTES:**_
 _**HISTÓRIA:**_
 
 O Monte Uetliberg tem sido um importante local para os habitantes de Zurique desde a Idade Média. No século 19, o Monte Uetliberg tornou-se um destino popular para passeios e excursões.
+
+---
 
 3. **Passeio pela Cidade Velha de Zurique**
 
@@ -452,6 +486,8 @@ _**HISTÓRIA:**_
 
 A Cidade Velha de Zurique é um dos principais pontos turísticos da cidade. A área é repleta de história, com edifícios que datam do século 13. A Cidade Velha é também um importante centro comercial e cultural, com lojas, restaurantes e galerias de arte.
 
+---
+
 4. **Museu FIFA World Football**
 
    - **Duração:** 3 horas
@@ -467,6 +503,8 @@ _**FATOS INTERESSANTES:**_
 _**HISTÓRIA:**_
 
 O Museu FIFA World Football foi inaugurado em 2016 para celebrar o centenário da FIFA. O museu está localizado no centro de Zurique, próximo à estação central.
+
+---
 
 5. **Rosenberg Indoor Golf**
 
