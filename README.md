@@ -32,7 +32,7 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 | 18/jun | Terça-feira   | Lucerna, Suíça    | 1. Viagem de Zurique para Lucerna.                             |
 |        |               |                   | - 1.1. Ponte da Capela.                                        |
 |        |               |                   | - 1.2. Monte Pilatus (opcional).                               |
-| 19/jun | Quarta-feira  | Zurique, Suíça    | 1. Passeio de barco pelo Lago dos Quatro Cantões.              |
+| 19/jun | Quarta-feira  | Zurique, Suíça    | 1. Passeio Interlaken e Jungfraujoch.                          |
 | 20/jun | Quinta-feira  | Zurique, Suíça    | Viagem de Zurique para o Brasil (Preparativos para o retorno). |
 | 21/jun | Sexta-feira   | Brasil (Retorno)  | Chegada ao Brasil.                                             |
 
