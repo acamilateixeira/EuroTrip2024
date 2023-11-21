@@ -6,30 +6,39 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
 ## Itinerário
 
-| Data   | Dia da Semana | Local             | Atividades                                                         |
-| ------ | ------------- | ----------------- | ------------------------------------------------------------------ |
-| 08/jun | Sábado        | Brasil (Partida)  | - Partida para Roma, Itália.                                       |
-| 09/jun | Domingo       | Roma, Itália      | - Chegada em Roma.                                                 |
-|        |               |                   | - Visita à Fontana di Trevi.                                       |
-| 10/jun | Segunda-feira | Roma, Itália      | - Exploração do Coliseu, Fórum Romano e Palatino.                  |
-| 11/jun | Terça-feira   | Roma, Itália      | - Visita ao Vaticano:                                              |
-|        |               |                   | - Basílica de São Pedro.                                           |
-|        |               |                   | - Museus Vaticanos.                                                |
-|        |               |                   | - Capela Sistina.                                                  |
-| 12/jun | Quarta-feira  | Roma, Itália      | - Dia livre em Roma.                                               |
-| 13/jun | Quinta-feira  | Santorini, Grécia | - Viagem de Roma para Santorini.                                   |
-| 14/jun | Sexta-feira   | Santorini, Grécia | - Relaxamento e exploração de Santorini.                           |
-| 15/jun | Sábado        | Santorini, Grécia | - Passeio de barco ao vulcão Nea Kameni e visita às águas termais. |
-| 16/jun | Domingo       | Santorini, Grécia | - Exploração das praias de Santorini:                              |
-|        |               |                   | - Red Beach.                                                       |
-|        |               |                   | - Kamari Beach.                                                    |
-| 17/jun | Segunda-feira | Zurique, Suíça    | - Viagem de Santorini para Zurique.                                |
-|        |               |                   | - Visita ao Museu Lindt (Casa do Chocolate) e Bahnhofstrasse.      |
-| 18/jun | Terça-feira   | Lucerna, Suíça    | - Viagem de Zurique para Lucerna.                                  |
-|        |               |                   | - Ponte da Capela e opcionalmente Monte Pilatus.                   |
-| 19/jun | Quarta-feira  | Zurique, Suíça    | - Passeio em Interlaken e visita a Jungfraujoch.                   |
-| 20/jun | Quinta-feira  | Zurique, Suíça    | - Viagem de Zurique para o Brasil (Preparativos para o retorno).   |
-| 21/jun | Sexta-feira   | Brasil (Retorno)  | - Chegada ao Brasil.                                               |
+| Data   | Dia da Semana | Local             | Atividades                                                                                                 |
+| ------ | ------------- | ----------------- | ---------------------------------------------------------------------------------------------------------- |
+| 08/jun | Sábado        | Brasil (Partida)  | - Partida para Roma, Itália.                                                                               |
+| 09/jun | Domingo       | Roma, Itália      | - Chegada em Roma.                                                                                         |
+|        |               |                   | - Dia livre em Roma. Opção de atividade:                                                                   |
+|        |               |                   | - Exploração da cidade.                                                                                    |
+|        |               |                   | - Passeio de barco pelo rio Tibre.                                                                         |
+| 10/jun | Segunda-feira | Roma, Itália      | - Descoberta do patrimônio histórico: Coliseu, Fórum Romano e Palatino.                                    |
+|        |               |                   | - Visita ao Vittoriano e à Piazza Venezia.                                                                 |
+| 11/jun | Terça-feira   | Roma, Itália      | - Exploração do Vaticano:                                                                                  |
+|        |               |                   | - Basílica de São Pedro.                                                                                   |
+|        |               |                   | - Museus Vaticanos.                                                                                        |
+|        |               |                   | - Capela Sistina.                                                                                          |
+| 12/jun | Quarta-feira  | Roma, Itália      | - Visita à Fontana di Trevi.                                                                               |
+|        |               |                   | - Visita ao Panteão.                                                                                       |
+| 13/jun | Quinta-feira  | Santorini, Grécia | - Viagem de Roma para Santorini. Manhã e Tarde Livre                                                       |
+| 14/jun | Sexta-feira   | Santorini, Grécia | - Passeio no vulcão Nea Kameni, cruzeiro ao pôr do sol com degustação de vinhos e visita às águas termais. |
+|        |               |                   | - Visita à vila de Oia, famosa por suas casas brancas e azuis.                                             |
+| 15/jun | Sábado        | Mykonos, Grécia   | - Ferry de S para Mykonos: Praia de Psarou                                                                 |
+| 16/jun | Domingo       | Santorini, Grécia | - Relaxamento e exploração de Santorini:                                                                   |
+|        |               |                   | - Red Beach.                                                                                               |
+|        |               |                   | - Kamari Beach.                                                                                            |
+| 17/jun | Segunda-feira | Zurique, Suíça    | - Viagem de Santorini para Zurique.                                                                        |
+|        |               |                   | - Manhã: Visita ao Museu Lindt (Casa do Chocolate).                                                        |
+|        |               |                   | - Tarde: Exploração da Bahnhofstrasse.                                                                     |
+| 18/jun | Terça-feira   | Lucerna, Suíça    | - Viagem de Zurique para Lucerna (Trem panorâmico).                                                        |
+|        |               |                   | - Manhã: Ponte da Capela.                                                                                  |
+|        |               |                   | - Tarde: Opcionalmente, Monte Pilatus.                                                                     |
+| 19/jun | Quarta-feira  | Interlaken, Suíça | - Viagem de Lucerna para Interlaken (Trem panorâmico).                                                     |
+|        |               |                   | - Manhã: Visita ao Jungfraujoch, o topo da Europa.                                                         |
+|        |               |                   | - Tarde: Passeio pelo lago Brienz.                                                                         |
+| 20/jun | Quinta-feira  | Zurique, Suíça    | - Retorno de Interlaken para Zurique.                                                                      |
+|        |               |                   | - Partida para o Brasil.                                                                                   |
 
 # Índice
 
