@@ -38,7 +38,7 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 |        |               |                   | - Manhã: Visita ao Jungfraujoch, o topo da Europa.                                                         |
 |        |               |                   | - Tarde: Passeio pelo lago Brienz.                                                                         |
 | 20/jun | Quinta-feira  | Zurique, Suíça    | - Retorno de Interlaken para Zurique.                                                                      |
-|        |               |                   | - Partida para o Brasil.                                                                                   |
+|        |               |                   | - Preparativos para o retorno ao Brasil.                                                                   |
 
 # Índice
 
