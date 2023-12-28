@@ -41,6 +41,7 @@
                 Use Moveis;
 
                 const cachorro = ''
+                const segurança = ''
                 const entreterimento = 'livro, Rádio, DVD, TV, Box DVDS, Artesanato(barbante, tecido, madeira), Arte(pintura, vidral)'
 
                 // 
