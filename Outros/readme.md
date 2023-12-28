@@ -48,7 +48,7 @@
                 Use ConstruçãoEFerramentas;
                 Use HabilidadeDePlantar;
 
-                const agro = 'café, abóbora, alho, alho poró, feijão, tomate, mandioca, batata, milho, cebola, orégano, limão ... etc'
+                const agro = 'café, abóbora, alho, alho poró, feijão, tomate, mandioca, batata, milho, cebola, orégano, limão, banana, mamão, abacate ... etc'
                 const armazenamento = 'estrutura, prateleiras, potes de vidro, frizer'
                 const galinha = 'galinheiro'
                 const peixe = 'lago'
