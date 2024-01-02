@@ -55,7 +55,7 @@
                 const peixe = 'lago'
                 const abelha = ''
                 const gas = ''
-                const locomoçãoInterna = ''
+                const locomoçãoInterna = 'Triciclo'
 
             }
             <script/>
