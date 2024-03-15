@@ -36,9 +36,9 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 |        |               |                     | - Tarde: Lago Brienz.                                                                                      |
 | 19/jun | Quarta-feira  | Jungfraujoch, Suíça | - Viagem de Zurique para Jungfraujoch.                                                                     |
 |        |               |                     | - Manhã: Visita ao Jungfraujoch, o topo da Europa.                                                         |
-|        |               |                     | - Tarde: Passeio pelo lago Brienz.                                                                         |
-| 20/jun | Quinta-feira  | Zurique, Suíça      | -                                                                                                          |
-|        |               |                     | - Preparativos para o retorno ao Brasil.                                                                   |
+|        |               |                     | - Tarde: Castelo de Gelo.                                                                                  |
+| 20/jun | Quinta-feira  | Zurique, Suíça      | - Preparativos para o retorno ao Brasil.                                                                   |
+|        |               |                     | -                                                                                                          |
 
 # Índice
 
