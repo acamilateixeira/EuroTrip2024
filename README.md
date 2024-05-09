@@ -6,39 +6,28 @@ Abaixo está o itinerário detalhado, destacando as datas, dias da semana, locai
 
 ## Itinerário
 
-| Data   | Dia da Semana | Local               | Atividades                                                                                                 |
-| ------ | ------------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 08/jun | Sábado        | Brasil (Partida)    | - Partida para Roma, Itália.                                                                               |
-| 09/jun | Domingo       | Roma, Itália        | - Chegada em Roma.                                                                                         |
-|        |               |                     | - Dia livre em Roma. Opção de atividade:                                                                   |
-|        |               |                     | - Exploração da cidade.                                                                                    |
-|        |               |                     | - Passeio de barco pelo rio Tibre.                                                                         |
-| 10/jun | Segunda-feira | Roma, Itália        | - Descoberta do patrimônio histórico: Coliseu, Fórum Romano e Palatino.                                    |
-|        |               |                     | - Visita ao Vittoriano e à Piazza Venezia.                                                                 |
-| 11/jun | Terça-feira   | Roma, Itália        | - Exploração do Vaticano:                                                                                  |
-|        |               |                     | - Basílica de São Pedro.                                                                                   |
-|        |               |                     | - Museus Vaticanos.                                                                                        |
-|        |               |                     | - Capela Sistina.                                                                                          |
-| 12/jun | Quarta-feira  | Roma, Itália        | - Visita à Fontana di Trevi e Praça Navona Panteão (nessa ordem).                                          |
-|        |               |                     | - Visita a Galeria Borghese.                                                                               |
-| 13/jun | Quinta-feira  | Santorini, Grécia   | - Viagem de Roma para Santorini. Manhã e Tarde Livre                                                       |
-| 14/jun | Sexta-feira   | Santorini, Grécia   | - Passeio no vulcão Nea Kameni, cruzeiro ao pôr do sol com degustação de vinhos e visita às águas termais. |
-|        |               |                     | - Visita à vila de Oia, famosa por suas casas brancas e azuis.                                             |
-| 15/jun | Sábado        | Santorini, Grécia   | - Ferry de S para Íos                                                                                      |
-| 16/jun | Domingo       | Santorini, Grécia   | - Relaxamento e exploração de Santorini:                                                                   |
-|        |               |                     | - Kamari Beach.                                                                                            |
-|        |               |                     | - Vila de Pyrgos                                                                                           |
-| 17/jun | Segunda-feira | Zurique, Suíça      | - Viagem de Santorini para Zurique.                                                                        |
-|        |               |                     | - Manhã: Visita ao Museu Lindt (Casa do Chocolate).                                                        |
-|        |               |                     | - Tarde: Exploração da Bahnhofstrasse.                                                                     |
-| 18/jun | Terça-feira   | Interlaken, Suíça   | - Viagem de Zurique para Interlaken (Trem panorâmico).                                                     |
-|        |               |                     | - Manhã: Ciclismo.                                                                                         |
-|        |               |                     | - Tarde: Lago Brienz.                                                                                      |
-| 19/jun | Quarta-feira  | Jungfraujoch, Suíça | - Viagem de Zurique para Jungfraujoch.                                                                     |
-|        |               |                     | - Manhã: Visita ao Jungfraujoch, o topo da Europa.                                                         |
-|        |               |                     | - Tarde: Castelo de Gelo.                                                                                  |
-| 20/jun | Quinta-feira  | Zurique, Suíça      | - Preparativos para o retorno ao Brasil.                                                                   |
-|        |               |                     | -                                                                                                          |
+Claro, aqui está a versão revisada do roteiro com as informações fornecidas:
+
+### Roteiro Atualizado
+
+| Data  | Dia da Semana | Local               | Atividades                                                                                                 |
+|-------|---------------|---------------------|------------------------------------------------------------------------------------------------------------|
+| 08/jun| Sábado        | Brasil (Partida)    | - Partida para Roma, Itália.                                                                               |
+| 09/jun| Domingo       | Roma, Itália        | - Chegada em Roma, Passeio de barco pelo rio Tibre.                                                        |
+| 10/jun| Segunda-feira | Roma, Itália        | - Coliseu, Fórum Romano, Palatino.                                                                         |
+| 11/jun| Terça-feira   | Roma, Itália        | - Visitar o Vaticano: Basílica de São Pedro, Museus Vaticanos, Capela Sistina.                             |
+| 12/jun| Quarta-feira  | Roma, Itália        | - Visita à Fontana di Trevi e Praça Navona Panteão (nessa ordem).                                           |
+|       |               |                     | - Visita a Galeria Borghese.                                                                               |
+| 13/jun| Quinta-feira  | Santorini, Grécia   | - Viagem de Roma para Santorini.                                                                           |
+| 14/jun| Sexta-feira   | Santorini, Grécia   | - Passeio ao vulcão Nea Kameni e banhos termais, Cruzeiro ao pôr do sol com jantar a bordo.                                                                            |
+| 15/jun| Sábado        | Santorini, Grécia   | - Red Beach, White Beach, Vila de Akrotiri e Jantar na Vila de Oia                                                                            |
+| 16/jun| Domingo       | Santorini, Grécia   | - Praia de Kamari,Vila de Pyrgos e seu castelo                                                                               |
+| 17/jun| Segunda-feira | Zurique, Suíça      | - Viagem de Santorini para Zurique (06:05 - 10:20).                                                        |
+|       |               |                     | - Explorar Zurique: Museu Lindt, Bahnhofstrasse (rua comercial).                                           |
+| 18/jun| Terça-feira   | Engelberg, Suíça    | - Monte Titlis.                                                                                            |
+| 19/jun| Quarta-feira  | Interlaken, Suíça   | - Interlaken e retorno a Zurique.                                                                          |
+| 20/jun| Quinta-feira  | Zurique, Suíça      | - Preparativos para o retorno ao Brasil e aproveitar o dia em Zurique.                                      |
+| 21/jun| Sexta-feira   | Brasil (Retorno)    | - Partida de Zurique para o Brasil.                                                                        |
 
 # Índice
 
